@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Noticia.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Noticia.php">
+      <file leaf-file-name="sass.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/assets/sass/sass.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25392985" vertical-offset="0" max-vertical-offset="827">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.15235792" vertical-offset="0" max-vertical-offset="827">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -39,8 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/Padmin/wp-content/themes/LaravelTheme/customSizes/bannerPequeno.php" />
-        <option value="$PROJECT_DIR$/public/Padmin/wp-content/themes/LaravelTheme/customSizes/Slider.php" />
         <option value="$PROJECT_DIR$/public/Padmin/wp-content/themes/LaravelTheme/customSizes/multiple.php" />
         <option value="$PROJECT_DIR$/public/Padmin/wp-content/themes/LaravelTheme/customSizes/bannerGrande.php" />
         <option value="$PROJECT_DIR$/public/Padmin/wp-includes/theme.php" />
@@ -90,6 +88,8 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/FundacionesyComisionesController.php" />
         <option value="$PROJECT_DIR$/app/Fundacion.php" />
         <option value="$PROJECT_DIR$/app/Noticia.php" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/fontawesome/wordpress/wpscss.less" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/sass.scss" />
       </list>
     </option>
   </component>
@@ -159,29 +159,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CIVSCGconWP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CIVSCGconWP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jgrossi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="corcel" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -196,6 +174,84 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fontawesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -249,6 +305,7 @@
       <recent name="$PROJECT_DIR$/resources/views/Paginas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/assets/sass" />
       <recent name="$PROJECT_DIR$/resources/views" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/public" />
@@ -345,13 +402,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Query/QueryBuilder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18375" vertical-offset="0" max-vertical-offset="28539">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/PostMeta.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06045949" vertical-offset="34" max-vertical-offset="861">
@@ -569,13 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49214026" vertical-offset="8707" max-vertical-offset="9618">
-          <caret line="434" column="1" selection-start-line="434" selection-start-column="1" selection-end-line="434" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Plantillas/extras/nav.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0411124" vertical-offset="0" max-vertical-offset="1050">
@@ -784,6 +827,135 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25392985" vertical-offset="0" max-vertical-offset="827">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1428956596000" expanded="false" signature="-1:-1" placeholder=" Created by jorgelsaud. ..." />
+            <marker date="1428956596000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1428956596000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49214026" vertical-offset="8707" max-vertical-offset="9618">
+          <caret line="434" column="1" selection-start-line="434" selection-start-column="1" selection-end-line="434" selection-end-column="1" />
+          <folding>
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428934845000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/wordpress/wpscss.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9189843" vertical-offset="1403" max-vertical-offset="2289">
+          <caret line="103" column="1" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
+          <folding>
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428956908000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/sass.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15235792" vertical-offset="0" max-vertical-offset="827">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding />
         </state>
       </provider>
