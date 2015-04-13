@@ -10,6 +10,13 @@ class FundacionesyComisionesController extends Controller {
 
 public function todas(){
     $Fundaciones=Fundacion::all();
+    $Fundaciones = Fundacion::leftJoin('postmeta', function ($join)
+    {
+        $join->on('posts.id', '=', 'postmeta.post_id');
+    })
+        ->where('meta_key', 'orden')
+        ->orderBy('meta_value', 'ASC')
+        ->get();
     return view('FundacionesYComisiones.all',compact('Fundaciones'));
 }
 public function individual($slug){
