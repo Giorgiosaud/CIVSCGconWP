@@ -1,6 +1,5 @@
 /vendor
 !/vendor/jgrossi/
 /node_modules
-/public/Padmin
-!/public/Padmin/wp-content/themes/LaravelTheme
+/Padmin
 .env
