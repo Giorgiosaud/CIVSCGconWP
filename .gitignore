@@ -1,8 +1,5 @@
 /vendor
 !/vendor/jgrossi/
 /node_modules
-/Padmin
-!/Padmin/wp-content/themes
-!/Padmin/wp-content/plugins
 /public/index.php
 .env
