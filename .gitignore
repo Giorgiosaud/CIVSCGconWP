@@ -1,4 +1,5 @@
 /vendor
 !/vendor/jgrossi/
 /node_modules
+/public/Padmin
 .env
