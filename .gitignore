@@ -1,5 +1,5 @@
 /vendor
-!/vendor/jgrossi/
+!/vendor/jgrossi/*
 /node_modules
 /public/index.php
 .env
