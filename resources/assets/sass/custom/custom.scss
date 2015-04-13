@@ -1,0 +1,453 @@
+@import 'variables';
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+
+}
+
+.navbar-toggle .icon-bar {
+  background-color: $color-de-fuente;
+}
+
+.navbar-civscg {
+  background-color: $color-nav-civscg;
+  border-color: $nav-borde-civscg;
+  min-height: $navm-h;
+  .navbar-nav > li > a, .navbar-brand {
+    height: auto;
+    color: $color-de-fuente;
+    &:hover {
+      color: $color-nav-civscg-hover;
+      background-color: lighten($color-nav-civscg-hover, 100);
+    }
+  }
+}
+
+.navbar-nav {
+  margin-top: 80px;
+  li {
+    margin-bottom: -1px;
+    & + li {
+      border-left: solid lighten($color-nav-civscg, 10) 3px;
+    }
+  }
+
+}
+
+.logoNav {
+  width: $logonav-w;
+}
+
+.glyphicon-refresh-animate {
+  -animation: spin .7s infinite linear;
+  -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: scale(1) rotate(0deg);
+  }
+  to {
+    transform: scale(1) rotate(360deg);
+  }
+}
+
+.sliderInicio {
+  //  min-height: 540px;
+}
+
+.container-fluid-pegadito {
+  padding: 0 !important;
+}
+
+.container-fluid-pegadito {
+  margin-left: 0;
+  margin-right: 0;
+  [class*='col-'] {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
+.sliderInicio {
+  background-color: green;
+}
+
+@keyframes image_blur {
+  0% {
+    filter: blur(0px);
+  }
+  100% {
+    filter: blur(2px);
+  }
+}
+
+.banner {
+  background-color: #29ABE2;
+  height: 250px;
+  overflow: hidden;
+
+  img {
+    width: 100%;
+    min-height: 100%;
+    height: auto;
+    opacity: 0.7;
+    position: relative;
+    z-index: 1;
+    filter: blur(0px);
+
+  }
+  &:hover {
+    img {
+      filter: blur(2px);
+      animation: image_blur 1s;
+    }
+  }
+  .botonBanner {
+    position: absolute;
+    z-index: 3;
+    color: white;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    width: 200px;
+    height: 4em;
+    font-size: 1.5em;
+    border: solid 5px white;
+    background-color: $color-botones-inicio;
+    padding: 8px;
+    &:hover {
+      cursor: pointer;
+    }
+    &:active {
+      background-color: darken($color-botones-inicio, 20);
+    }
+
+  }
+}
+
+.bannerInterno {
+  //  background-color: #29ABE2;
+  height: 300px;
+  overflow: hidden;
+
+  img {
+    width: 100%;
+    min-height: 100%;
+    height: auto;
+    //    opacity: 0.7;
+    position: relative;
+    z-index: 1;
+    filter: blur(0px);
+
+  }
+  &:hover {
+    img {
+      filter: blur(2px);
+      animation: image_blur 1s;
+    }
+  }
+  .botonBanner {
+    position: absolute;
+    z-index: 3;
+    color: white;
+    top: 10px;
+    left: 10px;
+    width: 200px;
+    height: 4em;
+    font-size: 1.5em;
+    border: solid 5px white;
+    background-color: $color-botones-inicio;
+    padding: 8px;
+    &:hover {
+      cursor: pointer;
+    }
+    &:active {
+      background-color: darken($color-botones-inicio, 20);
+    }
+
+  }
+}
+
+.clearfix.loading {
+  height: 10px;
+  background-color: #00A99D;
+}
+
+footer {
+  min-height: 127px;
+  background-color: #1B1256;
+  color: #FFF;
+  padding-top: 40px;
+}
+
+#searchwrapper {
+  width: 310px;
+  height: 40px;
+  background-repeat: no-repeat;
+  background-color: $nav-borde-civscg-light;
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+  color: white;
+}
+
+#searchwrapper form {
+  display: inline;
+}
+
+.searchbox {
+  border: 0px; /*important*/
+  background-color: transparent; /*important*/
+  position: absolute; /*important*/
+  top: 4px;
+  left: 9px;
+  width: 256px;
+  height: 28px;
+}
+
+.searchbox_submit {
+  border: 0px;
+  background-color: transparent;
+  position: absolute;
+  top: 11px;
+  left: 265px;
+  width: auto;
+  height: 50%;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  height: 100%;
+  width: auto;
+}
+
+.cursosBanner {
+  background-color: #006666;
+}
+
+.fundacionBanner {
+  background-color: lighten(#29ABE2, 20);
+
+}
+
+.item {
+  height: 500px;
+  img {
+    min-height: 100%;
+  }
+}
+
+.carousel-inner {
+  min-width: 100%;
+  width: auto;
+  min-height: 100%;
+}
+
+.carousel-caption {
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 70%;
+  height: 5em;
+  margin: auto;
+  .carruselTitulo {
+    font-size: 1.5em;
+    font-weight: bolder;
+  }
+  .carruselResumen {
+    font-weight: bold;
+  }
+}
+
+.imagenVertical {
+  overflow: hidden;
+
+  .contenedorImagen {
+    display: inline-block;
+    position: relative;
+    right: -50%;
+    height: 100%;
+    img {
+      position: relative;
+      left: -50%;
+    }
+  }
+}
+
+.imagenHorizontal {
+  overflow: hidden;
+
+  .contenedorImagen {
+    display: inline-block;
+    position: relative;
+    right: -50%;
+    width: 100%;
+    img {
+      position: relative;
+      left: -50%;
+    }
+  }
+}
+
+.descripcionNoticia {
+  height: 300px;
+
+  .textoNoticia {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 3em;
+    margin: auto;
+    height: 12em;
+    width: 80%;
+    text-align: center;
+    .titulo {
+      font-size: 2em;
+      color: gray;
+      font-weight: 400;
+    }
+    .descripcion {
+      color: gray;
+      font-size: 1.2em;
+      text-align: justify;
+      margin-top: 0.5em;
+      height: 5em;
+      overflow: scroll;
+    }
+  }
+
+}
+
+.tituloIndividual {
+  font-size: 2em;
+  color: gray;
+  height: 3em;
+}
+
+.textoIndividualNoticia {
+  padding-top: 2em;
+}
+
+.topIndividual {
+  margin-bottom: 2em;
+}
+
+.noticiaCompleta {
+  word-wrap: break-word;
+  margin-bottom: 2em;
+  font-size: 1.2em;
+  color: gray;
+}
+
+.cursosTax {
+  padding: 1em 0;
+  background-color: #7dc9ff;
+}
+
+.pills-civscg > li > a {
+  background-color: #1B1256;
+  margin: 1em 15px;
+  color: white;
+  &:hover {
+    background-color: lighten(#1B1256, 20);
+
+  }
+}
+
+.incsrpcionesBannerInterno {
+  min-height: 450px;
+}
+
+.cursos {
+  position: relative;
+  .fecha {
+    position: absolute;
+    background-color: $color-nav-civscg;
+    padding: 1em;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 600;
+    margin: auto;
+    text-align: center;
+    right: 0;
+    width: 20em;
+    margin-bottom: 0px;
+    bottom: 0;
+    left: 140px;
+
+  }
+  .derecha {
+    background-color: $azul-claro;
+    left: -140px;
+  }
+}
+
+.cursosSingle {
+  position: relative;
+  .fecha {
+    position: absolute;
+    background-color: $color-nav-civscg;
+    padding: 1em;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 600;
+    margin: auto;
+    text-align: center;
+    right: 0;
+    width: 20em;
+    margin-bottom: 0px;
+    top: 0;
+    //    left: 140px;
+
+  }
+}
+
+.imagenCursos {
+  float: left;
+}
+
+.bannerCurso {
+  background-color: none;
+}
+
+.tituloCurso {
+  padding: 1em;
+  font-size: 4em;
+}
+
+.contenidoCurso {
+  padding: 2em;
+
+}
+.fundacionCuadrada{
+  height: 300px;
+  position: relative;
+  .nombreFundacion {
+    height: 1em;
+    width: 90%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    font-size: 1.5em;
+    a {
+      color: inherit;
+    }
+  }
+}
