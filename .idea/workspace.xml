@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2014_10_12_000000_create_users_table.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78718257" vertical-offset="0" max-vertical-offset="861">
-              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.02467685" vertical-offset="0" max-vertical-offset="851">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -39,7 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/Padmin/wp-content/themes/LaravelTheme/inicio.php" />
         <option value="$PROJECT_DIR$/public/Padmin/wp-content/themes/LaravelTheme/customPosts/NoticiasPost.php" />
         <option value="$PROJECT_DIR$/public/Padmin/wp-content/themes/LaravelTheme/customSizes/bannerPequeno.php" />
         <option value="$PROJECT_DIR$/public/Padmin/wp-content/themes/LaravelTheme/customSizes/Slider.php" />
@@ -90,6 +89,7 @@
         <option value="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" />
         <option value="$PROJECT_DIR$/resources/views/Plantillas/extras/nav.blade.php" />
         <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -146,6 +146,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -317,215 +331,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15235792" vertical-offset="0" max-vertical-offset="827">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" @see \Illuminate\Database\DatabaseManager ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Get the registered name of the component. ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/TermTaxonomyBuilder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1092">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1421689005000" expanded="false" signature="-1:-1" placeholder=" Corcel\TermTaxonomyBuilder ..." />
-            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder=" Get only posts with a specific slug ..." />
-            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/PostBuilder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19105199" vertical-offset="10" max-vertical-offset="1701">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <marker date="1428447335000" expanded="false" signature="-1:-1" placeholder=" Corcel\PostBuilder ..." />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder=" Get only posts with a custom status ..." />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder=" Get only published posts ..." />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder=" Get only posts from a custo post type ..." />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder=" Get only posts with a specific slug ..." />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder=" Overrides the paginate() method to a custom and simple way. ..." />
-            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="//..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.36" vertical-offset="19129" max-vertical-offset="19929">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="43" />
-          <folding>
-            <marker date="1428111297000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" The base query builder instance. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" The model being queried. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" The relationships that should be eager loaded. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" All of the registered builder macros. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" A replacement for the typical delete function. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" The methods that should be returned from query builder. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Create a new Eloquent query builder instance. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Find a model by its primary key. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Find a model by its primary key. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Find a model by its primary key or throw an exception. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Execute the query and get the first result. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Execute the query and get the first result or throw an exception. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Execute the query as a &quot;select&quot; statement. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Pluck a single column from the database. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Chunk the results of the query. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Get an array with the values of a given column. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Paginate the given query. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Paginate the given query into a simple paginator. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Update a record in the database. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Increment a column's value by a given amount. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Decrement a column's value by a given amount. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Add the &quot;updated at&quot; column to an array of values. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Delete a record from the database. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Run the default delete function on the builder. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Register a replacement for the default delete function. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Get the hydrated models without eager loading. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Eager load the relationships for the models. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Eagerly load the relationship on a set of models. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Get the relation instance for the given relation name. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Get the deeply nested relations for a given top-level relation. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Determine if the relationship is nested. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Add a basic where clause to the query. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Add an &quot;or where&quot; clause to the query. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Add a relationship count condition to the query. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Add nested relationship count conditions to the query. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Add a relationship count condition to the query. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Add a relationship count condition to the query with where clauses. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Add a relationship count condition to the query with where clauses. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Add a relationship count condition to the query with an &quot;or&quot;. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Add a relationship count condition to the query with where clauses and an &quot;or&quot;. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Add the &quot;has&quot; condition where clause to the query. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Merge the &quot;wheres&quot; from a relation query to a has query. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Get the &quot;has relation&quot; base query instance. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Set the relationships that should be eager loaded. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Parse a list of relations into individuals. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Parse the nested relationships in a relation. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Call the given model scope on the underlying model. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Get the underlying query builder instance. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Set the underlying query builder instance. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Get the relationships being eagerly loaded. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Set the relationships being eagerly loaded. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Get the model instance being queried. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Set a model instance for the model being queried. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Extend the builder with a given callback. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Get the given macro by name. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Dynamically handle calls into the query instance. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder=" Force a clone of the underlying query builder when cloning. ..." />
-            <marker date="1428111297000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Query/QueryBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18375" vertical-offset="0" max-vertical-offset="28539">
@@ -2284,6 +2089,100 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.78718257" vertical-offset="0" max-vertical-offset="861">
           <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <marker date="1428936983000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1428936983000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428936983000" expanded="true" signature="-1:-1" placeholder=" Run the migrations. ..." />
+            <marker date="1428936983000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428936983000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428936983000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428936983000" expanded="true" signature="-1:-1" placeholder=" Reverse the migrations. ..." />
+            <marker date="1428936983000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7678355" vertical-offset="1462" max-vertical-offset="2289">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1421689005000" expanded="false" signature="-1:-1" placeholder=" Corcel\Comment ..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder=" Post relationship ..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder=" Original relationship ..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder=" Replies relationship ..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder=" Verify if the current comment is approved ..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder=" Verify if the current comment is a reply from another comment ..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder=" Verify if the current comment has replies ..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder=" Find a comment by post ID ..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder=" Override the parent newQuery() to the custom CommentBuilder class ..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/PostMetaCollection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5743652" vertical-offset="475" max-vertical-offset="1302">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1421689005000" expanded="false" signature="-1:-1" placeholder=" Corcel\PostMetaCollection ..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder=" Search for the desired key and return only the row that represent it ..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1421689005000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/PostBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.853688" vertical-offset="874" max-vertical-offset="1701">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <marker date="1428447335000" expanded="false" signature="-1:-1" placeholder=" Corcel\PostBuilder ..." />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder=" Get only posts with a custom status ..." />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder=" Get only published posts ..." />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder=" Get only posts from a custo post type ..." />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder=" Get only posts with a specific slug ..." />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder=" Overrides the paginate() method to a custom and simple way. ..." />
+            <marker date="1428447335000" expanded="true" signature="-1:-1" placeholder="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02467685" vertical-offset="0" max-vertical-offset="851">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
           <folding />
         </state>
       </provider>
