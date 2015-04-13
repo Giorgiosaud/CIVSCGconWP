@@ -13,4 +13,6 @@ use Illuminate\Contracts\Pagination\Presenter;
 class Fundacion extends Post{
     //use Presenter;
     protected $postType = 'fundaciones';
+    protected $orderedbypost='no';
+
 }
