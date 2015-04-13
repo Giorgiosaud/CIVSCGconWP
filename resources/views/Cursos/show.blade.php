@@ -15,7 +15,9 @@
 				{!! $curso->post_title!!}
 		</div>
 		<div class="col-xs-12 col-sm-8 contenidoCurso">
-				{!! $curso->post_content!!}
+			<p>	{!!apply_filters('the_content',$curso->post_content)!!}</p>
+
+
 		</div>
 	</div>
 	<div class="container-fluid Formulario">
