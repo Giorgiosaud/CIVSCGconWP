@@ -25,7 +25,7 @@
 			</div>
 		</div>
 		<div class="col-xs-12 noticiaCompleta">
-				{!! $noticia->post_content!!}
+				<p>{!! $noticia->post_content!!}</p>
 		</div>
 	</div>
 
