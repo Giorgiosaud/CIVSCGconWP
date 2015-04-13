@@ -25,7 +25,7 @@
 			</div>
 		</div>
 		<div class="col-xs-12 noticiaCompleta">
-			<p>	{!! $fundacion->post_content!!}</p>
+			<p>	{!!apply_filters('the_content',$fundacion->post_content)!!}</p>
 		</div>
 	</div>
 

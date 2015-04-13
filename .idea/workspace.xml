@@ -25,10 +25,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/Noticias/show.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/FundacionesYComisiones/show.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68561065" vertical-offset="0" max-vertical-offset="827">
-              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.66021764" vertical-offset="0" max-vertical-offset="827">
+              <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -88,8 +88,8 @@
         <option value="$PROJECT_DIR$/app/Noticia.php" />
         <option value="$PROJECT_DIR$/resources/assets/sass/fontawesome/wordpress/wpscss.less" />
         <option value="$PROJECT_DIR$/resources/assets/sass/sass.scss" />
-        <option value="$PROJECT_DIR$/resources/views/FundacionesYComisiones/show.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Noticias/show.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/FundacionesYComisiones/show.blade.php" />
       </list>
     </option>
   </component>
@@ -253,6 +253,116 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Padmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Padmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Padmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Padmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twentyfifteen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -376,27 +486,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/PostMeta.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06045949" vertical-offset="34" max-vertical-offset="861">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/TermTaxonomy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.49455863" vertical-offset="535" max-vertical-offset="1386">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/Term.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15235792" vertical-offset="0" max-vertical-offset="827">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/TermRelationship.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15235792" vertical-offset="0" max-vertical-offset="827">
@@ -920,23 +1009,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/FundacionesYComisiones/show.blade.php">
+    <entry file="file://$PROJECT_DIR$/public/Padmin/wp-content/themes/twentyfifteen/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68561065" vertical-offset="0" max-vertical-offset="827">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428957373000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416428905000" expanded="false" signature="-1:-1" placeholder=" The template for displaying pages ..." />
+            <marker date="1416428905000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416428905000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416428905000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416428905000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Padmin/wp-content/themes/twentyfifteen/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3808948" vertical-offset="0" max-vertical-offset="827">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <marker date="1418762002000" expanded="false" signature="-1:-1" placeholder=" The template used for displaying page content ..." />
+            <marker date="1418762002000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418762002000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418762002000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418762002000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418762002000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -944,7 +1041,266 @@
     <entry file="file://$PROJECT_DIR$/resources/views/Noticias/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.68561065" vertical-offset="0" max-vertical-offset="827">
-          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957378000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Padmin/wp-includes/post-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5453446" vertical-offset="4022" max-vertical-offset="37065">
+          <caret line="220" column="42" selection-start-line="220" selection-start-column="31" selection-end-line="220" selection-end-column="42" />
+          <folding>
+            <marker date="1418751346000" expanded="false" signature="-1:-1" placeholder=" WordPress Post Template Functions. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Display the ID of the current item in the WordPress Loop. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve the ID of the current item in the WordPress Loop. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Display or retrieve the current post title with optional content. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Sanitize the current title when retrieving or displaying. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve post title. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the text prepended to the post title for protected posts. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the text prepended to the post title of private posts. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the post title. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Display the Post Global Unique Identifier (guid). ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve the Post Global Unique Identifier (guid). ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the Global Unique Identifier (guid) of the post. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Display the post content. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the post content. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve the post content. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the Read More link text. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Preview fix for JavaScript bug with foreign languages. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Display the post excerpt. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the displayed post excerpt. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve the post excerpt. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the retrieved post excerpt. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Whether post has excerpt. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Display the classes for the post div. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve the classes for the post div as an array. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the list of CSS classes for the current post. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Display the classes for the body element. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve the classes for the body element as an array. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the list of CSS body classes for the current post or page. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Whether post requires password and correct password has been provided. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" The formatted output of a list of pages. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the arguments used in retrieving page links for paginated posts. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the HTML output of individual page number links. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the HTML output of page links for paginated posts. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Helper function for wp_link_pages(). ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve post custom meta data field. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Display list of post custom fields. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the HTML output of the li element in the post custom fields list. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve or display list of pages as a dropdown (select list). ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the HTML output of a list of pages as a drop down. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve or display list of pages in list (li) format. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the array of pages to exclude from the pages list. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the HTML output of the pages to list. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Display or retrieve list of pages with optional home link. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the arguments used to generate a page-based menu. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the HTML output of a page-based menu. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve HTML list content for page list. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve HTML dropdown (select) content for page list. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Create HTML list of pages. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" @see Walker::$tree_type ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" @see Walker::$db_fields ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" @see Walker::start_lvl() ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" @see Walker::end_lvl() ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" @see Walker::start_el() ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the list of CSS classes to include with each page item in the list. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" @see Walker::end_el() ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Create HTML dropdown list of pages. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" @see Walker::$tree_type ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" @see Walker::$db_fields ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" @see Walker::start_el() ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the page title when creating an HTML drop-down list of pages. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Display an attachment page link using an image or icon. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve an attachment page link using an image or icon, if possible. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter a retrieved attachment page link. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Wrap attachment in paragraph tag before content. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the attachment markup to be prepended to the post content. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve protected post password form content. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Filter the HTML output for the protected post password form. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Whether currently in a page template. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Get the specific template name for a page. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve formatted date timestamp of a revision (linked to that revisions's page). ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Retrieve formatted date timestamp of a revision (linked to that revisions's page). ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder=" Display list of a post's revisions. ..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418751346000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/FundacionesYComisiones/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66021764" vertical-offset="0" max-vertical-offset="827">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
           <folding />
         </state>
       </provider>
