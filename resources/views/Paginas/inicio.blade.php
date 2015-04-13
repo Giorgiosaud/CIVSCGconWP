@@ -5,7 +5,7 @@
 			@include('Paginas.extras.carrusel')
 		</div>
 		<div class="col-xs-12 col-sm-6">
-			<div class="col-xs-12 text-center banner imagenHorizontal incsrpcionesBanner">
+			<div class="col-xs-12 text-center banner imagenVertical incsrpcionesBanner">
 				<div class="contenedorImagen">
 					{!! wp_get_attachment_image($pagina->meta->imagen_inscripciones,'bannerGrande') !!}
 				</div>
