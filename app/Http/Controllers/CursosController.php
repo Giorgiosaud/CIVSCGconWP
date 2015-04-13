@@ -15,7 +15,7 @@ class CursosController extends Controller {
         {
             $join->on('posts.id', '=', 'postmeta.post_id');
         })
-            ->where('meta_key', 'fecha_del_curso')
+            ->where('meta_key', 'fecha_evento')
             ->where('meta_value', '>=', Carbon::now())
             ->orderBy('meta_value', 'ASC')
             ->paginate(5);

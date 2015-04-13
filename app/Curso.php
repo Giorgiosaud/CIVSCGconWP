@@ -15,7 +15,7 @@ class Curso extends Post{
     protected $orderedbypost='no';
     protected $postType = 'curso';
     public function getFechaDeCursoAttribute(){
-        $r=Carbon::createFromFormat('Y-m-d',$this->meta->fecha_del_curso);
+        $r=Carbon::createFromFormat('Y-m-d',$this->meta->fecha_evento);
         return $r;
     }
 }
