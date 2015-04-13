@@ -9,7 +9,7 @@
 */
 
 define('WP_USE_THEMES', false);
-require __DIR__.'/../Padmin/wp-blog-header.php';
+require __DIR__.'/Padmin/wp-blog-header.php';
 
 /**
  * Laravel - A PHP Framework For Web Artisans
