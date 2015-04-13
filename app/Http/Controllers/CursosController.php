@@ -22,7 +22,13 @@ class CursosController extends Controller {
         $taxs = TermTaxonomy::whereTaxonomy('tipo_de_curso')->where('count', '>', '0')->get();
 
         //dd($taxs);
+        if($cursos->count()>0){
         return view('Cursos.all', compact('cursos', 'taxs'));
+        }
+        else{
+            return view('Cursos.noHay');
+
+        }
     }
 
     public function tipos($tipos)
