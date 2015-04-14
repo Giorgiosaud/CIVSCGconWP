@@ -2,8 +2,8 @@
 
 use App\Http\Requests;
 use App\Noticia;
-use Corcel\Page;
-use Corcel\Post;
+use jorgelsaud\Corcel\Page;
+use jorgelsaud\Corcel\Post;
 
 class NoticiasController extends Controller {
 

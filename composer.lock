@@ -681,12 +681,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/giorgiosaud/corcel_edited.git",
-                "reference": "38ab030ffb0d0db922ecb73a0f6fa4783565b2be"
+                "reference": "ef0434a428c017dc90d95d544d9e7bedc6e5eee4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/giorgiosaud/corcel_edited/zipball/38ab030ffb0d0db922ecb73a0f6fa4783565b2be",
-                "reference": "38ab030ffb0d0db922ecb73a0f6fa4783565b2be",
+                "url": "https://api.github.com/repos/giorgiosaud/corcel_edited/zipball/ef0434a428c017dc90d95d544d9e7bedc6e5eee4",
+                "reference": "ef0434a428c017dc90d95d544d9e7bedc6e5eee4",
                 "shasum": ""
             },
             "require": {
@@ -709,7 +709,7 @@
                 }
             ],
             "description": "Edited Corcel package from jgrossi/corcel",
-            "time": "2015-04-14 14:13:54"
+            "time": "2015-04-14 14:26:49"
         },
         {
             "name": "laracasts/flash",
