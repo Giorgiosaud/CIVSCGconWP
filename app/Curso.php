@@ -8,8 +8,10 @@ namespace App;
 
 
 use Carbon\Carbon;
-use Corcel\Post;
+
 use Illuminate\Contracts\Pagination\Presenter;
+use jorgelsaud\Corcel\Post;
+
 class Curso extends Post{
     //use Presenter;
     protected $orderedbypost='no';

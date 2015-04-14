@@ -7,8 +7,8 @@
 namespace App;
 
 
-use Corcel\Post;
 use Illuminate\Contracts\Pagination\Presenter;
+use jorgelsaud\Corcel\Post;
 
 class Noticia extends Post{
     //use Presenter;

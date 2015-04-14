@@ -14,8 +14,8 @@ class NoticiasController extends Controller {
         return view('Noticias.all',compact('noticias'));
 
     }
-    public function show($id){
-        $noticia=Noticia::wherePostName($id)->first();
+    public function show($slug){
+        $noticia=Noticia::wherePostName($slug)->first();
         return view('Noticias.show',compact('noticia'));
     }
 }

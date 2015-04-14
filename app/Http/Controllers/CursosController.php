@@ -3,9 +3,9 @@
 use App\Curso;
 use App\Http\Requests;
 use Carbon\Carbon;
-use Corcel\Term;
-use Corcel\TermRelationship;
-use Corcel\TermTaxonomy;
+use jorgelsaud\Corcel\Term;
+use jorgelsaud\Corcel\TermRelationship;
+use jorgelsaud\Corcel\TermTaxonomy;
 
 class CursosController extends Controller {
 

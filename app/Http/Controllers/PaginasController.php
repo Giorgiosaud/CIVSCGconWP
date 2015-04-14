@@ -4,7 +4,7 @@ use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
 use App\Noticia;
-use Corcel\Page;
+use jorgelsaud\Corcel\Page;
 use Corcel\Post;
 use Illuminate\Http\Request;
 
