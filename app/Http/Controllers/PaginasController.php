@@ -34,16 +34,6 @@ class PaginasController extends Controller {
         //$noticias=Noticia::published()->take(4)->get();
         return view('prueba',compact('pagina'));
     }
-    public function eventos(){
-        $eventos=Evento::leftJoin('postmeta', function ($join)
-        {
-            $join->on('posts.id', '=', 'postmeta.post_id');
-        })
-            ->where('meta_key', 'fecha_evento')->orderBy('meta_value', 'ASC')->paginate(5);
 
-        //dd($eventos);
-        return view('Eventos.all',compact('eventos'));
-
-    }
 
 }

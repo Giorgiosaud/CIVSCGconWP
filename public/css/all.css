@@ -8817,7 +8817,8 @@ footer {
     width: 100%; }
     .imagenHorizontal .contenedorImagen img {
       position: relative;
-      left: -50%; }
+      left: -50%;
+      width: 100%; }
 
 .descripcionNoticia {
   height: 300px; }

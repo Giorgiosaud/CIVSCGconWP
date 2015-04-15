@@ -20,14 +20,15 @@
 						{!! $evento->post_excerpt!!}
 					</div>
 					<div class="mostrarMas">
-						<a href="{!!route('detalleCursos',$evento->post_name)!!}"><img
+						<a href="{!!route('eventoIndividual',$evento->post_name)!!}"><img
 									src="{!! get_theme_mod( 'Leer_mas', 'Leer Mas' ); !!}"
 									alt="Leer Mas"/></a>
 					</div>
 				</div>
 				<div class="clearfix"></div>
 			</div>
-{{--			<div class="fecha @if($i%2!=0) derecha @endif">{!!CarbonLoc::diffForHumans2($evento->FechaDeEvento).$evento->FechaDeEvento !!}</div>--}}
+{{--			{!!$evento->meta->fecha_evento!!}--}}
+			<div class="fecha @if($i%2!=0) derecha @endif">{!!CarbonLoc::diffForHumans2($evento->FechaDeEvento)!!}</div>
 
 		</div>
 

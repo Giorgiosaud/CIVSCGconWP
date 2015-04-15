@@ -9,7 +9,7 @@
 			</div>
 
 		</div>
-		<div class="fecha ">{!!CarbonLoc::diffForHumans2($curso->FechaDeCurso)!!}</div>
+		<div class="fecha ">{!!CarbonLoc::diffForHumans2($curso->FechaDeEvento)!!}</div>
 
 		<div class="col-xs-12 col-sm-8 text-center tituloCurso">
 				{!! $curso->post_title!!}
