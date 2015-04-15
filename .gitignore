@@ -1,5 +1,4 @@
 /vendor
-!/vendor/jgrossi/*
 /node_modules
 /public/index.php
 /Padmin
