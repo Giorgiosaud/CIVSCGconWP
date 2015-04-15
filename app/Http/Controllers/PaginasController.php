@@ -1,11 +1,11 @@
 <?php namespace App\Http\Controllers;
 
+use App\Evento;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
 use App\Noticia;
 use jorgelsaud\Corcel\Page;
-use Corcel\Post;
 use Illuminate\Http\Request;
 
 class PaginasController extends Controller {
@@ -33,6 +33,17 @@ class PaginasController extends Controller {
         $pagina=Page::slug('inscripciones')->first();
         //$noticias=Noticia::published()->take(4)->get();
         return view('prueba',compact('pagina'));
+    }
+    public function eventos(){
+        $eventos=Evento::leftJoin('postmeta', function ($join)
+        {
+            $join->on('posts.id', '=', 'postmeta.post_id');
+        })
+            ->where('meta_key', 'fecha_evento')->orderBy('meta_value', 'ASC')->paginate(5);
+
+        //dd($eventos);
+        return view('Eventos.all',compact('eventos'));
+
     }
 
 }

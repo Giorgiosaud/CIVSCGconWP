@@ -13,6 +13,6 @@ use jorgelsaud\Corcel\Post;
 class Fundacion extends Post{
     //use Presenter;
     protected $postType = 'fundaciones';
-    protected $orderedbypost='no';
+    protected $orderedByPostDate=false;
 
 }

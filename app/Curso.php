@@ -14,7 +14,7 @@ use jorgelsaud\Corcel\Post;
 
 class Curso extends Post{
     //use Presenter;
-    protected $orderedbypost='no';
+    protected $orderedByPostDate=false;
     protected $postType = 'curso';
     public function getFechaDeCursoAttribute(){
         $r=Carbon::createFromFormat('Y-m-d',$this->meta->fecha_evento);

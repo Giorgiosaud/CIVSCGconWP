@@ -27,6 +27,7 @@ Route::get('inscripciones/requisitos',['as'=>'areaRequisitos','uses'=>'PaginasCo
 Route::get('inscripciones/solvencia',['as'=>'areaSolvencia','uses'=>'PaginasController@solvencia']);
 Route::get('fundacionesycomisiones',['as'=>'fundacionesycomisiones', 'uses'=>'FundacionesyComisionesController@todas']);
 Route::get('fundacionesycomisiones/{slug}',['as'=>'fundacion','uses'=>'FundacionesyComisionesController@individual']);
+Route::get('eventos',['as'=>'eventos','uses'=>'PaginasController@eventos']);
 Route::get('prueba',['as'=>'prueba','uses'=>'PaginasController@prueba']);
 
 
