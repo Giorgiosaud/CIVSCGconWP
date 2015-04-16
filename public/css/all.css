@@ -8687,11 +8687,9 @@ a img.aligncenter {
       background-color: rgba(0, 0, 0, 0.5); }
 
 .bannerInterno {
-  height: 300px;
   overflow: hidden; }
   .bannerInterno img {
     width: 100%;
-    min-height: 100%;
     height: auto;
     position: relative;
     z-index: 1;
@@ -8775,8 +8773,6 @@ footer {
 
 .item {
   height: 500px; }
-  .item img {
-    min-height: 100%; }
 
 .carousel-inner {
   min-width: 100%;

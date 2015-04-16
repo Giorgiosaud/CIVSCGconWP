@@ -24,6 +24,7 @@
 			<ul class="nav navbar-nav">
 				<li><a href="{{ url('noticias') }}">Noticias</a></li>
 				<li><a href="{{ url('/inscripciones') }}">Inscripción</a></li>
+				<li><a href="{{ url('/cursos') }}">Cursos</a></li>
 				<li><a href="{{ url('/fundacionesycomisiones') }}">Fundaciones y Comisiones</a></li>
 				<li><a href="{{ url('/eventos') }}">Eventos</a></li>
 				<li><a href="{{ url('/quienes-somos') }}">Somos</a></li>

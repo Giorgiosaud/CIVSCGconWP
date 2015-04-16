@@ -139,15 +139,11 @@
 }
 
 .bannerInterno {
-  //  background-color: #29ABE2;
-  height: 300px;
   overflow: hidden;
 
   img {
     width: 100%;
-    min-height: 100%;
     height: auto;
-    //    opacity: 0.7;
     position: relative;
     z-index: 1;
     filter: blur(0px);
@@ -245,7 +241,7 @@ footer {
 .item {
   height: 500px;
   img {
-    min-height: 100%;
+//    min-height: 100%;
   }
 }
 
