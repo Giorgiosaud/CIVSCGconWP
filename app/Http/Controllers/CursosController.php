@@ -51,8 +51,8 @@ class CursosController extends Controller {
     }
     public function detalles($id){
         $curso=Curso::wherePostName($id)->first();
-        $cursoFecha=Carbon::createFromFormat('Y-m-d',$curso->meta->fecha_del_curso);
-        return view('Cursos.show',compact('curso','cursoFecha'));
+        //$cursoFecha=Carbon::createFromFormat('Y-m-d',$curso->meta->fecha_del_curso);
+        return view('Cursos.show',compact('curso'));
     }
 
 }
