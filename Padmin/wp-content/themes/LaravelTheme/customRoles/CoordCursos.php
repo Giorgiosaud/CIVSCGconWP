@@ -18,7 +18,7 @@ function cursos_add_role_caps()
 {
 
     // Add the roles you'd like to administer the custom post types
-    $roles = array( 'editor', 'administrator');
+    $roles = array( 'Coordinador_de_Cursos','editor', 'administrator');
 
     // Loop through each role and assign capabilities
     foreach ($roles as $the_role)
