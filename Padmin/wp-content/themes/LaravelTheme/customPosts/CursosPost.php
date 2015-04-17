@@ -26,7 +26,8 @@ function crearcursos(){
         'show_ui'=>true,
         'query_var'=>true,
         'rewrite'=>true,
-        'capability_type'=>'post',
+        'capability_type'=>array('curso','cursos'),
+        'map_meta_cap'    => true,
         'has_archive'=>true,
         'menu_position'=>5,        // 5 - below Posts 10 - below Media 15 - below Links 20 - below Pages 25 - below comments 60 - below first separator 65 - below Plugins 70 - below Users 75 - below Tools 80 - below Settings 100 - below second separator
         'hierarchical'=>true,

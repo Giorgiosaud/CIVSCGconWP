@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CursosController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CursosController.php">
+      <file leaf-file-name="CoordCursos.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/CoordCursos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9141475" vertical-offset="273" max-vertical-offset="1239">
-              <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.025392987" vertical-offset="0" max-vertical-offset="1050">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,10 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php" />
-        <option value="$PROJECT_DIR$/public/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/cursosController.php" />
-        <option value="$PROJECT_DIR$/resources/views/Cursos/extras/topImage.blade.php" />
         <option value="$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/PostMeta.php" />
         <option value="$PROJECT_DIR$/resources/views/Cursos/extras/tags.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/inscripcionController.php" />
@@ -90,6 +86,10 @@
         <option value="$PROJECT_DIR$/resources/views/Plantillas/extras/nav.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Cursos/show.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/CursosController.php" />
+        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/functions.php" />
+        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/customRoles.php" />
+        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php" />
+        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/CoordCursos.php" />
       </list>
     </option>
   </component>
@@ -226,7 +226,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="Padmin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,11 +240,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="Padmin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
+              <option name="myItemId" value="wp-content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,15 +258,101 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="Padmin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
+              <option name="myItemId" value="wp-content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Padmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LaravelTheme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Padmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LaravelTheme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customRoles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Padmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LaravelTheme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customPosts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -279,25 +365,25 @@
     <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/Padmin/wp-content/themes/LaravelTheme" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MercadoPago" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="list.type.of.created.stylesheet" value="LESS" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/resources/views" />
       <recent name="$PROJECT_DIR$/resources/views/Noticias" />
       <recent name="$PROJECT_DIR$/vendor/jorgelsaud/carbonlocalizer/src/Translations/es" />
-      <recent name="$PROJECT_DIR$/resources/views/Paginas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles" />
+      <recent name="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/CoordCursos" />
       <recent name="$PROJECT_DIR$/resources/assets/sass" />
       <recent name="$PROJECT_DIR$/resources/views" />
       <recent name="$PROJECT_DIR$/public/images" />
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/images/public" />
     </key>
   </component>
   <component name="RunManager">
@@ -390,41 +476,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/models/Comment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/models/Page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/models/Post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/models/Taxonomy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/jorgelsaud/carbonlocalizer/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43168077" vertical-offset="0" max-vertical-offset="827">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/src/Corcel/CommentBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
@@ -776,6 +827,293 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9141475" vertical-offset="273" max-vertical-offset="1239">
           <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+          <folding>
+            <marker date="1429223627000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/customRoles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050785974" vertical-offset="0" max-vertical-offset="827">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27932286" vertical-offset="0" max-vertical-offset="827">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <marker date="1429299061000" expanded="true" signature="-1:-1" placeholder=" Created by jorgelsaud. ..." />
+            <marker date="1429299061000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-includes/capabilities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34220073" vertical-offset="6857" max-vertical-offset="32403">
+          <caret line="345" column="20" selection-start-line="345" selection-start-column="20" selection-end-line="345" selection-end-column="20" />
+          <folding>
+            <marker date="1417397664000" expanded="false" signature="-1:-1" placeholder=" WordPress Roles and Capabilities. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" WordPress User Roles. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" List of roles and capabilities. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" List of the role objects. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" List of role names. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Option name for storing role list. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Whether to use the database for retrieval and storage. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Constructor ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Make private/protected methods readable for backwards compatibility. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Set up the object properties. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Reinitialize the object ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Add role name with capabilities to list. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Remove role by name. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Add capability to role. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Remove capability from role. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Retrieve role object by name. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Retrieve list of role names. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Whether role name is currently in the list of available roles. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" WordPress Role class. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Role name. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" List of capabilities the role contains. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Constructor - Set up object properties. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Assign role a capability. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Remove capability from role. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Whether role has capability. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Filter which capabilities a role has. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" WordPress User class. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" User data container. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" The user's ID. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" The individual capabilities the user has been given. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" User metadata option name. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" The roles the user is part of. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" All capabilities the user has, including individual and role based. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" The filter context applied to user data fields. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Constructor ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Sets up object properties, including capabilities. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Return only the main user fields ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Magic method for checking the existence of a certain custom field ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Magic method for accessing custom fields ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Magic method for setting custom fields ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Determine whether the user exists in the database. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Retrieve the value of a property or meta key. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Determine whether a property or meta key is set ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Return an array representation. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Set up capability object properties. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Retrieve all of the role capabilities and merge with individual capabilities. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Add role to user. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Remove role from user. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Set the role of the user. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Fires after the user's role has changed. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Choose the maximum level the user has. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Update the maximum user level for the user. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Add capability and grant or deny access to capability. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Remove capability from user. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Remove all of the capabilities of the user. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Whether user has capability or role name. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Dynamically filter a user's capabilities. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Convert numeric level to level capability name. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Set the blog to operate on. Defaults to the current blog. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Map meta capabilities to primitive capabilities. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Filter whether the user is allowed to add post meta to a post. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Filter a user's capabilities depending on specific context and/or privilege. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Whether current user has capability or role. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Whether current user has a capability or role for a given blog. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Whether author of supplied post has capability or role. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Whether a particular user has capability or role. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Retrieve role object. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Add role, if it does not exist. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Remove role, if it exists. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Retrieve a list of super admins. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder=" Determine if user is a site admin. ..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1417397664000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37243047" vertical-offset="280" max-vertical-offset="1848">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+          <folding>
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429299827000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/CoordCursos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025392987" vertical-offset="0" max-vertical-offset="1050">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>

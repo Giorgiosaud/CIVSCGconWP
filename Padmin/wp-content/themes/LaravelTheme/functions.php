@@ -9,6 +9,7 @@ require __DIR__.'/customPosts/CustomPost.php';
 require __DIR__.'/customSizes/customSizes.php';
 require __DIR__.'/customizerTheme/customizer.php';
 require __DIR__.'/customTaxonomies/customTax.php';
+require __DIR__.'/customRoles/customRoles.php';
 
 $args = array(
     // Text color and image (empty to use none).
