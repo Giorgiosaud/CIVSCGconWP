@@ -28,7 +28,7 @@ elixir(function(mix) {
         .sass('sass.scss', 'resources/css')
         .less('less.less', 'resources/css')
         .coffee('bootstrap-switch/bootstrap-switch.coffee', 'resources/js/bootstrap-switch')
-        .scripts([
+        .scripts([ 
             'jquery/jquery.js',
             'bootstrap/bootstrap.js',
             'bootstrap-datepicker/bootstrap-datepicker.js',
