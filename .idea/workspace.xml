@@ -27,8 +27,8 @@
       <file leaf-file-name="capabilitiesToRoles.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18742442" vertical-offset="496" max-vertical-offset="1323">
-              <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.21644498" vertical-offset="472" max-vertical-offset="1323">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -77,7 +77,6 @@
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customTaxonomies/tiposDeCursos.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/CoordCursos.php" />
-        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/customRoles.php" />
         <option value="$PROJECT_DIR$/composer.lock" />
         <option value="$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/EventosController.php" />
@@ -89,6 +88,7 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/CursosController.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/Periodista.php" />
+        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/customRoles.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php" />
       </list>
     </option>
@@ -1087,24 +1087,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/Periodista.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07617896" vertical-offset="0" max-vertical-offset="827">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding>
-            <marker date="1429553514000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/customRoles.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10157195" vertical-offset="0" max-vertical-offset="827">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/CoordCursos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27932286" vertical-offset="0" max-vertical-offset="827">
@@ -1255,10 +1237,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/customRoles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07617896" vertical-offset="0" max-vertical-offset="827">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/Periodista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2031439" vertical-offset="0" max-vertical-offset="827">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="11" selection-end-column="50" />
+          <folding>
+            <marker date="1429553514000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18742442" vertical-offset="496" max-vertical-offset="1323">
-          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.21644498" vertical-offset="472" max-vertical-offset="1323">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
           <folding />
         </state>
       </provider>
