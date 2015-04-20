@@ -24,19 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CursosPost.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php">
+      <file leaf-file-name="capabilitiesToRoles.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.025392987" vertical-offset="63" max-vertical-offset="1890">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-              <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
-              <caret line="42" column="70" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.18742442" vertical-offset="496" max-vertical-offset="1323">
+              <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -47,7 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/vendor/symfony/translation/Symfony/Component/Translation/Translator.php" />
         <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php" />
         <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
@@ -85,7 +76,6 @@
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/functions.php" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customTaxonomies/tiposDeCursos.php" />
-        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/CoordCursos.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/customRoles.php" />
         <option value="$PROJECT_DIR$/composer.lock" />
@@ -98,6 +88,8 @@
         <option value="$PROJECT_DIR$/resources/views/Paginas/inscripciones.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/CursosController.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php" />
+        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/Periodista.php" />
+        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php" />
       </list>
     </option>
   </component>
@@ -335,6 +327,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="customRoles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Padmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LaravelTheme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="customPosts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -368,11 +390,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles" />
       <recent name="$PROJECT_DIR$/resources/views/Paginas" />
       <recent name="$PROJECT_DIR$/resources/views/Noticias" />
       <recent name="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme" />
       <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/resources/views" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles" />
@@ -472,20 +494,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Padmin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Eventos/extras/tags.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FundacionesyComisionesController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.050785974" vertical-offset="0" max-vertical-offset="827">
@@ -672,35 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/CoordCursos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27932286" vertical-offset="0" max-vertical-offset="827">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-          <folding>
-            <marker date="1429464891000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/customRoles.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10157195" vertical-offset="0" max-vertical-offset="827">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66021764" vertical-offset="0" max-vertical-offset="827">
-          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-          <folding>
-            <marker date="1429464825000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1429464825000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Noticias/all.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
@@ -740,114 +719,6 @@
             <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
             <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
             <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Padmin/wp-includes/plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.8911729" vertical-offset="1754" max-vertical-offset="18795">
-          <caret line="176" column="40" selection-start-line="176" selection-start-column="40" selection-end-line="176" selection-end-column="40" />
-          <folding>
-            <marker date="1416809123000" expanded="false" signature="-1:-1" placeholder=" The plugin API is located in this file, which allows for creating actions ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Hook a function or method to a specific filter action. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Check if any filter has been registered for a hook. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Call the functions added to a filter hook. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Execute functions hooked on a specific filter hook, specifying arguments in an array. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Removes a function from a specified filter hook. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Remove all of the hooks from a filter. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of the current filter or action. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of the current action. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of a filter currently being processed. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of an action currently being processed. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Hooks a function on to a specific action. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Execute functions hooked on a specific action hook. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the number of times an action is fired. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Execute functions hooked on a specific action hook, specifying arguments in an array. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Check if any action has been registered for a hook. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Removes a function from a specified action hook. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Remove all of the hooks from an action. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Gets the basename of a plugin. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Register a plugin's real path. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Get the filesystem directory path (with trailing slash) for the plugin __FILE__ passed in. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Get the URL directory path (with trailing slash) for the plugin __FILE__ passed in. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Set the activation hook for a plugin. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Set the deactivation hook for a plugin. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Set the uninstallation hook for a plugin. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Call the 'all' hook, which will process the functions hooked into it. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Build Unique ID for storage and retrieval. ..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1170,6 +1041,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1837969" vertical-offset="1063" max-vertical-offset="1890">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+          <caret line="42" column="70" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429553342000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/NoticiasPost.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
@@ -1186,18 +1087,178 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php">
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/Periodista.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.025392987" vertical-offset="63" max-vertical-offset="1890">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
-          <caret line="42" column="70" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.07617896" vertical-offset="0" max-vertical-offset="827">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <marker date="1429553514000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/customRoles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10157195" vertical-offset="0" max-vertical-offset="827">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/CoordCursos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27932286" vertical-offset="0" max-vertical-offset="827">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding>
+            <marker date="1429464891000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-admin/load-styles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34220073" vertical-offset="788" max-vertical-offset="3339">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" Disable error reporting ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder=" @ignore ..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1404417434000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-includes/plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34220073" vertical-offset="8327" max-vertical-offset="18795">
+          <caret line="428" column="9" selection-start-line="428" selection-start-column="9" selection-end-line="428" selection-end-column="9" />
+          <folding>
+            <marker date="1416809123000" expanded="false" signature="-1:-1" placeholder=" The plugin API is located in this file, which allows for creating actions ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Hook a function or method to a specific filter action. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Check if any filter has been registered for a hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Call the functions added to a filter hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Execute functions hooked on a specific filter hook, specifying arguments in an array. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Removes a function from a specified filter hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Remove all of the hooks from a filter. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of the current filter or action. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of the current action. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of a filter currently being processed. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of an action currently being processed. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Hooks a function on to a specific action. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Execute functions hooked on a specific action hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the number of times an action is fired. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Execute functions hooked on a specific action hook, specifying arguments in an array. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Check if any action has been registered for a hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Removes a function from a specified action hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Remove all of the hooks from an action. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Gets the basename of a plugin. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Register a plugin's real path. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Get the filesystem directory path (with trailing slash) for the plugin __FILE__ passed in. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Get the URL directory path (with trailing slash) for the plugin __FILE__ passed in. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Set the activation hook for a plugin. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Set the deactivation hook for a plugin. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Set the uninstallation hook for a plugin. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Call the 'all' hook, which will process the functions hooked into it. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Build Unique ID for storage and retrieval. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18742442" vertical-offset="496" max-vertical-offset="1323">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
           <folding />
         </state>
       </provider>
