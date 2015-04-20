@@ -29,6 +29,10 @@ class PaginasController extends Controller {
     public function solvencias(){
 
     }
+    public function quienesSomos(){
+        $pagina=Page::slug('quienes-somos')->first();
+        return view('Paginas.show',compact('pagina'));
+    }
     public function prueba(){
         $pagina=Page::slug('inscripciones')->first();
         //$noticias=Noticia::published()->take(4)->get();

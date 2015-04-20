@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="PaginasController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaginasController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.493537" vertical-offset="0" max-vertical-offset="851">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.68561065" vertical-offset="0" max-vertical-offset="903">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -39,7 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/views/prueba.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Paginas/inscripciones.blade.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/vendor/symfony/translation/Symfony/Component/Translation/Translator.php" />
@@ -71,9 +70,7 @@
         <option value="$PROJECT_DIR$/app/Curso.php" />
         <option value="$PROJECT_DIR$/app/Noticia.php" />
         <option value="$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/src/Corcel/Post.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" />
         <option value="$PROJECT_DIR$/resources/views/Eventos/show.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/Eventos/all.blade.php" />
         <option value="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" />
         <option value="$PROJECT_DIR$/resources/views/Plantillas/extras/nav.blade.php" />
@@ -90,6 +87,9 @@
         <option value="$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/EventosController.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/Paginas/show.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" />
       </list>
     </option>
   </component>
@@ -159,7 +159,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Padmin" />
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -173,33 +177,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Padmin" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CIVSCGconWP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Padmin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="Paginas" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,19 +199,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Padmin" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LaravelTheme" />
+              <option name="myItemId" value="Noticias" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,15 +221,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Padmin" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -266,11 +258,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/Paginas" />
+      <recent name="$PROJECT_DIR$/resources/views/Noticias" />
       <recent name="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/resources/views" />
-      <recent name="$PROJECT_DIR$/resources/views/Noticias" />
-      <recent name="$PROJECT_DIR$/vendor/jorgelsaud/carbonlocalizer/src/Translations/es" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles" />
@@ -370,27 +362,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="882">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4993954" vertical-offset="91" max-vertical-offset="1449">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10157195" vertical-offset="0" max-vertical-offset="1428">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Padmin/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.853688" vertical-offset="706" max-vertical-offset="1533">
@@ -475,13 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaginasController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7617896" vertical-offset="0" max-vertical-offset="827">
-          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/FundacionesYComisiones/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.68561065" vertical-offset="0" max-vertical-offset="827">
@@ -489,24 +453,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5332527" vertical-offset="0" max-vertical-offset="827">
-          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/lang/es/carbonlocale.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/NoticiasController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3808948" vertical-offset="0" max-vertical-offset="827">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -959,6 +909,101 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.493537" vertical-offset="0" max-vertical-offset="851">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5586457" vertical-offset="0" max-vertical-offset="827">
+          <caret line="31" column="88" selection-start-line="31" selection-start-column="88" selection-end-line="31" selection-end-column="88" />
+          <folding>
+            <marker date="1429545919000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/NoticiasController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3808948" vertical-offset="0" max-vertical-offset="827">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="56" />
+          <folding>
+            <marker date="1429021440000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1429021440000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429021440000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429021440000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Paginas/inicio.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428952397000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Paginas/inscripciones.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1428850254000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428850254000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428850254000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428850254000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428850254000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428850254000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428850254000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428850254000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428850254000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428850254000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428850254000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Paginas/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45707375" vertical-offset="0" max-vertical-offset="827">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding>
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429545919000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaginasController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68561065" vertical-offset="0" max-vertical-offset="903">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
           <folding />
         </state>
       </provider>
