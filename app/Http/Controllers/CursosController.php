@@ -11,7 +11,7 @@ class CursosController extends Controller {
 
     public function index()
     {
-        $cursos = Curso::leftJoin('postmeta', function ($join)
+        $cursos = Curso::published()->leftJoin('postmeta', function ($join)
         {
             $join->on('posts.id', '=', 'postmeta.post_id');
         })

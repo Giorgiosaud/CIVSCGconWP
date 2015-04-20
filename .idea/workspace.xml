@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="inscripciones.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/Paginas/inscripciones.blade.php">
+      <file leaf-file-name="CursosController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CursosController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2031439" vertical-offset="0" max-vertical-offset="827">
-              <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+            <state vertical-scroll-proportion="0.2031439" vertical-offset="0" max-vertical-offset="1239">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -74,7 +74,6 @@
         <option value="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" />
         <option value="$PROJECT_DIR$/resources/views/Plantillas/extras/nav.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Cursos/show.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/CursosController.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/functions.php" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php" />
@@ -90,6 +89,7 @@
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" />
         <option value="$PROJECT_DIR$/resources/views/Paginas/inscripciones.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CursosController.php" />
       </list>
     </option>
   </component>
@@ -218,6 +218,96 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Middleware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -382,13 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/src/Corcel/PostBuilder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34220073" vertical-offset="536" max-vertical-offset="1449">
-          <caret line="43" column="48" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/doctrine/collections/lib/Doctrine/Common/Collections/Collection.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.68561065" vertical-offset="567" max-vertical-offset="5250">
@@ -414,13 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22853687" vertical-offset="0" max-vertical-offset="827">
           <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/src/Corcel/Post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32164448" vertical-offset="2170" max-vertical-offset="4935">
-          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -470,14 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36517534" vertical-offset="223" max-vertical-offset="1050">
           <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Curso.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25392985" vertical-offset="0" max-vertical-offset="827">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -834,28 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CursosController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30471584" vertical-offset="0" max-vertical-offset="1239">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <marker date="1429223627000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EventosController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5840387" vertical-offset="0" max-vertical-offset="924">
@@ -980,6 +1026,119 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2031439" vertical-offset="0" max-vertical-offset="827">
           <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+          <folding>
+            <marker date="1429546517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546517000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Curso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15235792" vertical-offset="0" max-vertical-offset="827">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <marker date="1429051962000" expanded="false" signature="-1:-1" placeholder=" Created by jorgelsaud. ..." />
+            <marker date="1429051962000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1429051962000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429051962000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/src/Corcel/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.2" vertical-offset="1365" max-vertical-offset="5061">
+          <caret line="231" column="25" selection-start-line="231" selection-start-column="20" selection-end-line="231" selection-end-column="25" />
+          <folding>
+            <marker date="1429541299000" expanded="false" signature="-1:-1" placeholder=" Post model ..." />
+            <marker date="1429541299000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Class Post ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" field related to Updated at in Laravel* ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" @var array ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" @var bool ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Meta data relationship ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" @return Corcel\PostMetaCollection ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Taxonomy relationship ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Comments relationship ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Get attachment ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Get revisions from post ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Overriding newQuery() to the custom PostBuilder with some interesting methods ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Magic method to return the meta data like the post original fields ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" @param array $options ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" @param string $related ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" @param string $related ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" @param $query ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/src/Corcel/PostBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56875" vertical-offset="91" max-vertical-offset="1449">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <marker date="1429541299000" expanded="false" signature="-1:-1" placeholder=" Corcel\PostBuilder ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Get only posts with a custom status ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Get only published posts ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Get only posts from a custo post type ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder=" Get only posts with a specific slug ..." />
+            <marker date="1429541299000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CursosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2031439" vertical-offset="0" max-vertical-offset="1239">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding />
         </state>
       </provider>
