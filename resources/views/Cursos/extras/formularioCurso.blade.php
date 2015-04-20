@@ -6,4 +6,22 @@ Form::text('nombre'),
 Form::help('Escriba su Nombre')
 )
 !!}
+{!!
+ControlGroup::generate(
+Form::label('apellido', 'Apellido(s)'),
+Form::text('apellido'),
+Form::help('Escriba su(s) Apellido(s)')
+)
+!!}
+{!!
+ControlGroup::generate(
+Form::label('cedula', 'Cedula'),
+Form::text('cedula'),
+Form::help('Escriba su Cedula')
+)
+!!}
+{!!
+Form::hidden('curso_slug',$curso->PostName)
+!!}
+
 {!!Form::close()!!}
