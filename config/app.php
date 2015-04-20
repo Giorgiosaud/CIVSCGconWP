@@ -135,7 +135,7 @@ return [
         'Illuminate\Translation\TranslationServiceProvider',
         'Illuminate\Validation\ValidationServiceProvider',
         'Illuminate\View\ViewServiceProvider',
-
+        'Illuminate\Html\HtmlServiceProvider',
         /*
          * Application Service Providers...
          */
@@ -197,6 +197,8 @@ return [
         'View'      => 'Illuminate\Support\Facades\View',
         'Debugbar'  => 'Barryvdh\Debugbar\Facade',
         'CarbonLoc' => 'jorgelsaud\Carbonlocalizer\Facades\Carbonlocalizer',
+        'Form'=> 'Illuminate\Html\FormFacade',
+        'HTML'=> 'Illuminate\Html\HtmlFacade',
         'Accordion' => 'Bootstrapper\Facades\Accordion',
         'Alert' => 'Bootstrapper\Facades\Alert',
         'Badge' => 'Bootstrapper\Facades\Badge',
