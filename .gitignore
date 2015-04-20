@@ -3,4 +3,5 @@
 /public/index.php
 /Padmin
 !/Padmin/wp-content/themes
+composer.lock
 .env

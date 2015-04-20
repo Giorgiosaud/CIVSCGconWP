@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EventosController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EventosController.php">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3808948" vertical-offset="0" max-vertical-offset="924">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.12338425" vertical-offset="0" max-vertical-offset="851">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -71,7 +71,6 @@
         <option value="$PROJECT_DIR$/app/Curso.php" />
         <option value="$PROJECT_DIR$/app/Noticia.php" />
         <option value="$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/src/Corcel/Post.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" />
         <option value="$PROJECT_DIR$/resources/views/Eventos/show.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
@@ -90,6 +89,7 @@
         <option value="$PROJECT_DIR$/composer.lock" />
         <option value="$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/EventosController.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -795,20 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02467685" vertical-offset="0" max-vertical-offset="851">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
@@ -1150,8 +1136,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EventosController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3808948" vertical-offset="0" max-vertical-offset="924">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.5840387" vertical-offset="0" max-vertical-offset="924">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <marker date="1429544711000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1429544711000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429544711000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429544711000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429544711000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429544711000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429544711000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429544711000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429544711000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429544711000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12338425" vertical-offset="0" max-vertical-offset="851">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
