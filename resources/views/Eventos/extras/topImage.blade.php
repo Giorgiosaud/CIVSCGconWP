@@ -5,6 +5,6 @@
 					src="{!! get_theme_mod( 'imagen_area_cursos', 'Imagen Area de Cursos' ); !!}"
 					alt="Leer Mas"/>
 		</div>
-		<div class="botonBanner">Cursos y Adiestramiento</div>
+		<div class="botonBanner">Eventos del CIVSCG</div>
 	</div>
 </div>

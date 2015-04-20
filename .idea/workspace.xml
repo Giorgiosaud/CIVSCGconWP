@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="capabilitiesToRoles.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php">
+      <file leaf-file-name="EventosController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EventosController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15235792" vertical-offset="0" max-vertical-offset="827">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.3808948" vertical-offset="0" max-vertical-offset="924">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -39,8 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/views/Paginas/extras/carrusel.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Noticias/all.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/prueba.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Paginas/inscripciones.blade.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
@@ -77,7 +75,6 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" />
         <option value="$PROJECT_DIR$/resources/views/Eventos/show.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/EventosController.php" />
         <option value="$PROJECT_DIR$/resources/views/Eventos/all.blade.php" />
         <option value="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" />
         <option value="$PROJECT_DIR$/resources/views/Plantillas/extras/nav.blade.php" />
@@ -90,6 +87,9 @@
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/CoordCursos.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/customRoles.php" />
+        <option value="$PROJECT_DIR$/composer.lock" />
+        <option value="$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/EventosController.php" />
       </list>
     </option>
   </component>
@@ -164,6 +164,76 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Noticias" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Eventos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Eventos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extras" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -506,20 +576,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="882">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/inscripcionController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="882">
@@ -531,16 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4993954" vertical-offset="91" max-vertical-offset="1449">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.lock">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.43450883" vertical-offset="13827" max-vertical-offset="98217">
-          <caret line="642" column="31" selection-start-line="642" selection-start-column="21" selection-end-line="642" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -635,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaginasController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7617896" vertical-offset="0" max-vertical-offset="827">
@@ -684,13 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Noticias/show.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15235792" vertical-offset="0" max-vertical-offset="827">
-          <caret line="6" column="98" selection-start-line="6" selection-start-column="98" selection-end-line="6" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customSizes/individualPrincipal.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.050785974" vertical-offset="0" max-vertical-offset="827">
@@ -698,31 +730,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Eventos/show.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27932286" vertical-offset="0" max-vertical-offset="827">
-          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Evento.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27932286" vertical-offset="0" max-vertical-offset="827">
           <caret line="17" column="36" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EventosController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29262394" vertical-offset="10" max-vertical-offset="861">
-          <caret line="13" column="75" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Eventos/all.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21281742" vertical-offset="139" max-vertical-offset="966">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -744,6 +755,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25392985" vertical-offset="0" max-vertical-offset="827">
           <caret line="18" column="35" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -751,13 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27932286" vertical-offset="0" max-vertical-offset="827">
           <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CursosController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9141475" vertical-offset="273" max-vertical-offset="1239">
-          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -898,8 +903,255 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15235792" vertical-offset="0" max-vertical-offset="827">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.66021764" vertical-offset="0" max-vertical-offset="827">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+          <folding>
+            <marker date="1429464825000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429464825000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Noticias/all.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="851">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428787136000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Noticias/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68561065" vertical-offset="0" max-vertical-offset="827">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1428957856000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-includes/plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8911729" vertical-offset="1754" max-vertical-offset="18795">
+          <caret line="176" column="40" selection-start-line="176" selection-start-column="40" selection-end-line="176" selection-end-column="40" />
+          <folding>
+            <marker date="1416809123000" expanded="false" signature="-1:-1" placeholder=" The plugin API is located in this file, which allows for creating actions ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Hook a function or method to a specific filter action. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Check if any filter has been registered for a hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Call the functions added to a filter hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Execute functions hooked on a specific filter hook, specifying arguments in an array. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Removes a function from a specified filter hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Remove all of the hooks from a filter. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of the current filter or action. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of the current action. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of a filter currently being processed. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the name of an action currently being processed. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Hooks a function on to a specific action. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Execute functions hooked on a specific action hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Retrieve the number of times an action is fired. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Execute functions hooked on a specific action hook, specifying arguments in an array. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Check if any action has been registered for a hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Removes a function from a specified action hook. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Remove all of the hooks from an action. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Gets the basename of a plugin. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Register a plugin's real path. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Get the filesystem directory path (with trailing slash) for the plugin __FILE__ passed in. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Get the URL directory path (with trailing slash) for the plugin __FILE__ passed in. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Set the activation hook for a plugin. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Set the deactivation hook for a plugin. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Set the uninstallation hook for a plugin. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Call the 'all' hook, which will process the functions hooked into it. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder=" Build Unique ID for storage and retrieval. ..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1416809123000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3324937" vertical-offset="13974" max-vertical-offset="98217">
+          <caret line="678" column="38" selection-start-line="678" selection-start-column="38" selection-end-line="678" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Eventos/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27932286" vertical-offset="0" max-vertical-offset="827">
+          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+          <folding>
+            <marker date="1429060247000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429060247000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429060247000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429060247000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429060247000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429060247000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429060247000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429060247000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1777509" vertical-offset="0" max-vertical-offset="827">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding>
+            <marker date="1429544640000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429544640000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429544640000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429544640000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Eventos/all.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050785974" vertical-offset="0" max-vertical-offset="966">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429062589000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CursosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30471584" vertical-offset="0" max-vertical-offset="1239">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <marker date="1429223627000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429223627000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EventosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3808948" vertical-offset="0" max-vertical-offset="924">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding />
         </state>
       </provider>

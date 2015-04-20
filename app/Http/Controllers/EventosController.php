@@ -11,7 +11,10 @@ class EventosController extends Controller {
         {
             $join->on('posts.id', '=', 'postmeta.post_id');
         })
-            ->where('meta_key', 'fecha_evento')->where('meta_value','!=','')->orderBy('meta_value', 'ASC')->paginate(5);
+            ->where('meta_key', 'fecha_evento')
+            ->where('meta_value', '>=', Carbon::now())
+            ->orderBy('meta_value', 'ASC')
+            ->paginate(5);
 
         //dd($eventos);
         return view('Eventos.all', compact('eventos'));
