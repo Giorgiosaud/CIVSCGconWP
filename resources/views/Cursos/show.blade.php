@@ -20,13 +20,13 @@
 
 		</div>
 	</div>
-	<div class="container-fluid Formulario">
+	<div class="container-fluid">
 		<div class="col-xs-12 text-center">
 		<h1>¿Deseas participar en este curso? Entonces Llena el Formulario Siguiente</h1>
 		</div>
 		</div>
-	<div class="container">
-		<div class="col-xs-12 formulario">
+	<div class="container formulario">
+		<div class="col-xs-12">
 			@include('Cursos.extras.formularioCurso')
 		</div>
 	</div>

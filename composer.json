@@ -17,7 +17,8 @@
     "barryvdh/laravel-dompdf": "0.5.*",
     "jorgelsaud/carbonlocalizer": "1.0.2",
     "barryvdh/laravel-debugbar": "~2.0",
-    "jorgelsaud/corcel_edited": "dev-master"
+    "jorgelsaud/corcel_edited": "dev-master",
+    "guzzlehttp/guzzle": "~4.0"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.0",

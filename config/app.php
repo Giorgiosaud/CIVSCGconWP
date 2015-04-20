@@ -144,6 +144,7 @@ return [
         'App\Providers\ConfigServiceProvider',
         'App\Providers\EventServiceProvider',
         'Barryvdh\Debugbar\ServiceProvider',
+        'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
         'App\Providers\RouteServiceProvider',
         'jorgelsaud\Carbonlocalizer\Provider\CarbonlocalizerServiceProvider',
         'Bootstrapper\BootstrapperL5ServiceProvider'

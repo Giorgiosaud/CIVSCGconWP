@@ -15,8 +15,8 @@ return [
 	*/
 
 	'mailgun' => [
-		'domain' => '',
-		'secret' => '',
+		'domain' => 'mg.civscg.com.ve',
+		'secret' => 'key-6d7394e12cd4c59f8cb9244929cc1bc6',
 	],
 
 	'mandrill' => [

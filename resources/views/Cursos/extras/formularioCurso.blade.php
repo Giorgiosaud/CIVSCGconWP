@@ -23,5 +23,7 @@ Form::help('Escriba su Cedula')
 {!!
 Form::hidden('curso_slug',$curso->post_name)
 !!}
-
+{!!
+Button::primary('Enviar Peticion')->block()->submit();
+!!}
 {!!Form::close()!!}
