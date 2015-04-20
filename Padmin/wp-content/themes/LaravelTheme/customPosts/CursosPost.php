@@ -2,8 +2,8 @@
 add_action('init','crearcursos');
 function crearcursos(){
     $labels=array(
-        'name'=>'curso',
-        'singular_name'=>'curso',
+        'name'=>'Curso',
+        'singular_name'=>'Curso',
         'menu_name'=>'Cursos',
         'all_items'=>' Todos Los Cursos',
         'add_new'=>'Nuevo Curso',
@@ -11,10 +11,10 @@ function crearcursos(){
         'edit_item'=>'Editar Curso',
         'new_item'=>'Nuevo Curso',
         'view_item'=>'Ver Curso',
-        'search_items'=>'Buscar curso',
+        'search_items'=>'Buscar Curso',
         'not_found'=>'No hay Cursos Disponibles',
-        'not_found_in_trash'=>'No se encontraron curso en la papelera',
-        'parent_item_colon'=>'curso Superior'
+        'not_found_in_trash'=>'No se encontraron Curso en la papelera',
+        'parent_item_colon'=>'Curso Superior'
     );
     $supportarg=array('title','thumbnail','excerpt','editor','slug');
     $postarg=array(
@@ -26,21 +26,21 @@ function crearcursos(){
         'show_ui'=>true,
         'query_var'=>true,
         'rewrite'=>true,
-        'capability_type'=>array('curso','cursos'),
+        'capability_type'=>array('Curso','cursos'),
         'map_meta_cap'    => true,
         'has_archive'=>true,
         'menu_position'=>5,        // 5 - below Posts 10 - below Media 15 - below Links 20 - below Pages 25 - below comments 60 - below first separator 65 - below Plugins 70 - below Users 75 - below Tools 80 - below Settings 100 - below second separator
         'hierarchical'=>false,
         'supports'=>$supportarg,
     );
-    register_post_type(	'curso',	$postarg);
+    register_post_type(	'Curso',	$postarg);
 }
 add_action('admin_head','curso_header');
 function curso_header(){
     global $post_type;
     ?>
     <style>
-        <?php if (($_GET['post_type'] == 'curso') || ($post_type == 'curso')) : ?>
+        <?php if (($_GET['post_type'] == 'Curso') || ($post_type == 'Curso')) : ?>
         #icon-edit { background:transparent url('<?php echo plugins_url('filecolor36px');?>') no-repeat; }
         <?php endif; ?>
         #adminmenu #menu-posts-Curso div.wp-menu-image{background:transparent url("<?php echo plugins_url('filegray16px');?>") no-repeat center center;}
