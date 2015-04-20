@@ -24,6 +24,9 @@
 		<div class="col-xs-12 text-center">
 		<h1>¿Deseas participar en este curso? Entonces Llena el Formulario Siguiente</h1>
 		</div>
+		<div class="col-xs-12 formulario">
+			@include('Cursos.extras.formularioCurso')
+		</div>
 	</div>
 
 @endsection
