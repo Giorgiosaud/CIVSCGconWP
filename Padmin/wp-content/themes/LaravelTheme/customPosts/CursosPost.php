@@ -48,11 +48,12 @@ function curso_header(){
     </style>
 <?php
 }
-add_filter( 'manage_edit-curso_columns', 'my_edit_movie_columns' ) ;
+add_filter( 'manage_edit-curso_columns', 'my_edit_cursos_columns' ) ;
 
-function my_edit_movie_columns( $columns ) {
+function my_edit_cursos_columns( $columns ) {
 
     $columns = array(
+        'cb'=>'cb',
         'title'=>'Titulo',
         'date'=>'date',
         'tipo_de_curso'=>'Tipo de Curso',
