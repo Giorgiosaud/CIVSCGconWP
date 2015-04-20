@@ -146,7 +146,7 @@ return [
         'Barryvdh\Debugbar\ServiceProvider',
         'App\Providers\RouteServiceProvider',
         'jorgelsaud\Carbonlocalizer\Provider\CarbonlocalizerServiceProvider',
-        'Bootstrapper\BootstrapperServiceProvider'
+        'Bootstrapper\BootstrapperL5ServiceProvider'
 
     ],
 
