@@ -8680,7 +8680,7 @@ a img.aligncenter {
     font-size: 1.5em;
     border: solid 5px white;
     background-color: rgba(22, 54, 66, 0.5);
-    padding: 8px; }
+    padding: 24px; }
     .banner .botonBanner:hover {
       cursor: pointer; }
     .banner .botonBanner:active {
@@ -8773,6 +8773,9 @@ footer {
 
 .item {
   height: 500px; }
+
+.botonInscripcion a {
+  color: white; }
 
 .carousel-inner {
   min-width: 100%;
