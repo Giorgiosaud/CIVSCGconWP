@@ -24,12 +24,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/app.php">
+      <file leaf-file-name="formularioCurso.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/Cursos/extras/formularioCurso.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55375" vertical-offset="3757" max-vertical-offset="4935">
-              <caret line="200" column="46" selection-start-line="200" selection-start-column="46" selection-end-line="200" selection-end-column="46" />
-              <folding />
+            <state vertical-scroll-proportion="0.12696493" vertical-offset="0" max-vertical-offset="827">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding>
+                <marker date="1429556641000" expanded="true" signature="52:140" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,9 +89,9 @@
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php" />
         <option value="$PROJECT_DIR$/resources/views/Paginas/inscripciones.blade.php" />
         <option value="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" />
-        <option value="$PROJECT_DIR$/resources/views/Cursos/extras/formularioCurso.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Cursos/show.blade.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/resources/views/Cursos/extras/formularioCurso.blade.php" />
       </list>
     </option>
   </component>
@@ -1396,16 +1398,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Cursos/extras/formularioCurso.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1777509" vertical-offset="0" max-vertical-offset="827">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <marker date="1429556225000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Cursos/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.68561065" vertical-offset="0" max-vertical-offset="827">
@@ -1428,7 +1420,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55375" vertical-offset="3757" max-vertical-offset="4935">
           <caret line="200" column="46" selection-start-line="200" selection-start-column="46" selection-end-line="200" selection-end-column="46" />
-          <folding />
+          <folding>
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429556553000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Cursos/extras/formularioCurso.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12696493" vertical-offset="0" max-vertical-offset="827">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <marker date="1429556641000" expanded="true" signature="52:140" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

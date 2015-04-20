@@ -1,9 +1,9 @@
-{!!Form::inline()!!}
+{!!Form::horizontal()!!}
 {!!
 ControlGroup::generate(
-Form::label('control', 'Control Group'),
-Form::text('control'),
-Form::help('Here is a help text')
+Form::label('nombre', 'Nombre'),
+Form::text('nombre'),
+Form::help('Escriba su Nombre')
 )
 !!}
 {!!Form::close()!!}
