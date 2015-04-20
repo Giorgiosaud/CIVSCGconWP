@@ -29,7 +29,7 @@ Route::get('fundacionesycomisiones',['as'=>'fundacionesycomisiones', 'uses'=>'Fu
 Route::get('fundacionesycomisiones/{slug}',['as'=>'fundacion','uses'=>'FundacionesyComisionesController@individual']);
 Route::get('eventos',['as'=>'eventos','uses'=>'EventosController@todos']);
 Route::get('eventos/{slug}',['as'=>'eventoIndividual','uses'=>'EventosController@individual']);
-Route::get('quienes-somos',['as'=>'quienes-somo','uses'=>'PaginasController@quienesSomos']);
+Route::get('/{slug}',['as'=>'paginas','uses'=>'PaginasController@paginas']);
 Route::get('prueba',['as'=>'prueba','uses'=>'PaginasController@prueba']);
 
 

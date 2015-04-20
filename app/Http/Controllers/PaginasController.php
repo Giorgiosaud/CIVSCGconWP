@@ -20,13 +20,17 @@ class PaginasController extends Controller {
         $noticias=Noticia::published()->take(4)->get();
         return view('Paginas.inscripciones',compact('pagina','noticias'));
     }
-    public function beneficios(){
-
+    public function paginas($slug){
+        $pagina=Page::slug($slug)->first();
+        return view('Paginas.show',compact('pagina'));
     }
     public function requisitos(){
-
+        $pagina=Page::slug('requisitos')->first();
+        return view('Paginas.show',compact('pagina'));
     }
     public function solvencias(){
+        $pagina=Page::slug('solvencias')->first();
+        return view('Paginas.show',compact('pagina'));
 
     }
     public function quienesSomos(){
