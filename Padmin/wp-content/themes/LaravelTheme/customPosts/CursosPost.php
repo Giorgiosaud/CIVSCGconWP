@@ -63,6 +63,7 @@ function my_edit_movie_columns( $columns ) {
 }
 add_action('manage_curso_posts_custom_column',  'my_show_columns', 10, 2);
 function my_show_columns($name,$post_id) {
+    global $post;
     switch ($name) {
         case 'tipo_de_curso':
             $views = get_the_term_list( $post_id , 'tipo_de_curso' , '' , ',' , '' );
