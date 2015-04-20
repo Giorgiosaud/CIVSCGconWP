@@ -28,11 +28,11 @@
         <entry file="file://$PROJECT_DIR$/resources/views/Cursos/extras/formularioCurso.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.5840387" vertical-offset="0" max-vertical-offset="827">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
               <folding>
-                <marker date="1429557791000" expanded="true" signature="52:140" placeholder="..." />
-                <marker date="1429557791000" expanded="true" signature="173:278" placeholder="..." />
-                <marker date="1429557791000" expanded="true" signature="311:399" placeholder="..." />
+                <marker date="1429557835000" expanded="true" signature="52:140" placeholder="..." />
+                <marker date="1429557835000" expanded="true" signature="173:278" placeholder="..." />
+                <marker date="1429557835000" expanded="true" signature="311:399" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -1308,28 +1308,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CursosController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6094317" vertical-offset="357" max-vertical-offset="1239">
-          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-          <folding>
-            <marker date="1429546980000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/src/Corcel/Post.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.01125" vertical-offset="4261" max-vertical-offset="5061">
@@ -1442,14 +1420,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CursosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7617896" vertical-offset="357" max-vertical-offset="1239">
+          <caret line="52" column="35" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="35" />
+          <folding>
+            <marker date="1429546980000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429546980000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Cursos/extras/formularioCurso.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5840387" vertical-offset="0" max-vertical-offset="827">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
           <folding>
-            <marker date="1429557791000" expanded="true" signature="52:140" placeholder="..." />
-            <marker date="1429557791000" expanded="true" signature="173:278" placeholder="..." />
-            <marker date="1429557791000" expanded="true" signature="311:399" placeholder="..." />
+            <marker date="1429557835000" expanded="true" signature="52:140" placeholder="..." />
+            <marker date="1429557835000" expanded="true" signature="173:278" placeholder="..." />
+            <marker date="1429557835000" expanded="true" signature="311:399" placeholder="..." />
           </folding>
         </state>
       </provider>

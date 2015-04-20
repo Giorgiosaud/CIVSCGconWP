@@ -21,7 +21,7 @@ Form::help('Escriba su Cedula')
 )
 !!}
 {!!
-Form::hidden('curso_slug',$curso->FechaDeCurso)
+Form::hidden('curso_slug',$curso->PostName)
 !!}
 
 {!!Form::close()!!}
