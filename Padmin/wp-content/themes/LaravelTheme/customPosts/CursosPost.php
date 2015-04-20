@@ -71,7 +71,7 @@ function my_show_columns($name,$post_id) {
             echo $views;
             break;
         case 'Fecha_de_Curso':
-            $views = get_post_meta( $post_id , 'fecha_del_curso' , true );
+            $views = get_post_meta( $post_id , 'fecha_evento' , true );
             echo $views;
             break;
     }
