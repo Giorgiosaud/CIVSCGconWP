@@ -8,7 +8,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid">
+	<div class="container">
 
 
 		<div class="col-xs-12 topIndividual">
