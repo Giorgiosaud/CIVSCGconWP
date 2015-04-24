@@ -9,7 +9,7 @@
 				<div class="contenedorImagen">
 					{!! wp_get_attachment_image($pagina->meta->imagen_inscripciones,'bannerGrande') !!}
 				</div>
-				<div class="botonBanner"><a href="{!!route('cursos')!!}">Inscripciones y Requisitos</a></div>
+				<div class="botonBanner">Inscripciones y Requisitos</div>
 			</div>
 			<div class="col-xs-6 text-center banner imagenVertical cursosBanner">
 				<div class="contenedorImagen">
@@ -17,7 +17,7 @@
 				{!! wp_get_attachment_image($pagina->meta->imagen_cursos,'bannerGrande') !!}
 </div>
 				<div class="botonBanner">
-					Cursos y Adiestramiento
+					<a href="{!!route('cursos')!!}">Cursos y Adiestramiento</a>
 				</div>
 			</div>
 			<div class="col-xs-6 text-center banner imagenVertical fundacionBanner">
