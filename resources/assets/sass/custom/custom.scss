@@ -128,7 +128,7 @@
     border: solid 5px white;
     background-color: $color-botones-inicio;
     padding: 24px;
-    
+
     &:active {
       background-color: darken($color-botones-inicio, 20);
     }
