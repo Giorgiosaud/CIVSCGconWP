@@ -1,6 +1,6 @@
 @extends('Plantillas.principal')
 @section('contenido')
-	@include('Cursos.extras.topImage')
+	@include('Eventos.extras.topImage')
 	{{--@include('Cursos.extras.tags')--}}
 	@foreach($eventos as $i=>$evento)
 		<div class="container-fluid container-fluid-pegadito cursos">
