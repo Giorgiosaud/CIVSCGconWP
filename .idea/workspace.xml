@@ -45,21 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inicio.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="inicio.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/Paginas/inicio.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.625" vertical-offset="0" max-vertical-offset="840">
-              <caret line="27" column="56" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.7606727" vertical-offset="0" max-vertical-offset="840">
+              <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.94566625" vertical-offset="8845" max-vertical-offset="9744">
-              <caret line="456" column="16" selection-start-line="456" selection-start-column="16" selection-end-line="456" selection-end-column="16" />
+            <state vertical-scroll-proportion="-28.708334" vertical-offset="8845" max-vertical-offset="9744">
+              <caret line="454" column="26" selection-start-line="454" selection-start-column="26" selection-end-line="454" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -112,8 +112,8 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.875" vertical-offset="0" max-vertical-offset="777">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="34" />
+            <state vertical-scroll-proportion="-7.2156863" vertical-offset="31" max-vertical-offset="777">
+              <caret line="28" column="66" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -173,8 +173,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/EventosController.php" />
         <option value="$PROJECT_DIR$/resources/views/Eventos/all.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Paginas/inicio.blade.php" />
         <option value="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" />
+        <option value="$PROJECT_DIR$/resources/views/Paginas/inicio.blade.php" />
       </list>
     </option>
   </component>
@@ -728,7 +728,7 @@
         <state vertical-scroll-proportion="0.32082793" vertical-offset="886" max-vertical-offset="1659">
           <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
           <folding>
-            <element signature="e#6#90#0#PHP" expanded="true" />
+            <element signature="e#6#90#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -738,7 +738,7 @@
         <state vertical-scroll-proportion="-1.3363519" vertical-offset="1033" max-vertical-offset="1806">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6#90#0#PHP" expanded="true" />
+            <element signature="e#6#90#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -771,14 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="882">
           <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.875" vertical-offset="0" max-vertical-offset="777">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -819,18 +811,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Paginas/inicio.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.625" vertical-offset="0" max-vertical-offset="840">
-          <caret line="27" column="56" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="56" />
+        <state vertical-scroll-proportion="-28.708334" vertical-offset="8845" max-vertical-offset="9744">
+          <caret line="454" column="26" selection-start-line="454" selection-start-column="26" selection-end-line="454" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94566625" vertical-offset="8845" max-vertical-offset="9744">
-          <caret line="456" column="16" selection-start-line="456" selection-start-column="16" selection-end-line="456" selection-end-column="16" />
+        <state vertical-scroll-proportion="-7.2156863" vertical-offset="31" max-vertical-offset="777">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Paginas/inicio.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7606727" vertical-offset="0" max-vertical-offset="840">
+          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
           <folding />
         </state>
       </provider>
