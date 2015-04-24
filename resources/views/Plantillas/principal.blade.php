@@ -22,7 +22,7 @@
 		@include('Plantillas.extras.nav')
 </header>
 <body>
-
+@include('flash::message')
 @yield('contenido')
 
 <!-- Scripts -->

@@ -14,6 +14,14 @@ function example_customizer( $wp_customize ) {
             'priority' => 200,
         )
     );
+    $wp_customize->add_section(
+        'cursos',
+        array(
+            'title' => 'Configuraciones de Cursos',
+            'description' => 'Es una seccion de Configuraciones de los cursos.',
+            'priority' => 200,
+        )
+    );
     $wp_customize->add_setting(
         'Leer_mas',
         array(
@@ -30,6 +38,21 @@ function example_customizer( $wp_customize ) {
         'imagen_area_cursos',
         array(
             'default' => 'Imagen area cursos',
+        )
+    );
+    $wp_customize->add_setting(
+        'email_cursos',
+        array(
+            'default' => 'fundacioncursos@civscg.com.ve',
+        )
+    );
+    $wp_customize->add_control(
+        'email_de_cursos',
+        array(
+            'label'    => __( 'Email de Cursos', 'LaravelTheme' ),
+            'section'  => 'cursos',
+            'settings' => 'email_cursos',
+            'type'     => 'text',
         )
     );
     $wp_customize->add_control(

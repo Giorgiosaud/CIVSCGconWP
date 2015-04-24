@@ -6809,7 +6809,8 @@ footer {
   min-height: 127px;
   background-color: #1B1256;
   color: #FFF;
-  padding-top: 40px; }
+  padding-top: 40px;
+  margin-top: 3em; }
 
 #searchwrapper {
   width: 310px;
@@ -7022,9 +7023,6 @@ footer {
     font-size: 1.5em; }
     .fundacionCuadrada .nombreFundacion a {
       color: inherit; }
-
-.formulario {
-  margin: 2em 0; }
 
 
 /*# sourceMappingURL=sass.css.map */

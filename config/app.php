@@ -147,7 +147,9 @@ return [
         'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
         'App\Providers\RouteServiceProvider',
         'jorgelsaud\Carbonlocalizer\Provider\CarbonlocalizerServiceProvider',
-        'Bootstrapper\BootstrapperL5ServiceProvider'
+        'Bootstrapper\BootstrapperL5ServiceProvider',
+        'Laracasts\Flash\FlashServiceProvider',
+
 
     ],
 
@@ -224,6 +226,7 @@ return [
         'Tabbable' => 'Bootstrapper\Facades\Tabbable',
         'Table' => 'Bootstrapper\Facades\Table',
         'Thumbnail' => 'Bootstrapper\Facades\Thumbnail',
+        'Flash' => 'Laracasts\Flash\Flash'
 
     ],
 

@@ -1,3 +1,11 @@
+
+<ul class="list-group">
+	@foreach ($errors->all() as $error)
+		<li class="list-group-item list-group-item-danger">{{ $error }}</li>
+	@endforeach
+</ul>
+
+
 {!!Form::horizontal()!!}
 {!!
 ControlGroup::generate(
@@ -21,7 +29,26 @@ Form::help('Escriba su Cedula')
 )
 !!}
 {!!
-Form::hidden('curso_slug',$curso->post_name)
+ControlGroup::generate(
+Form::label('correo', 'Correo Electronico'),
+Form::text('correo'),
+Form::help('Escriba su E-Mail')
+)
+!!}
+{!!
+ControlGroup::generate(
+Form::label('telefono', 'Telefono de Contacto'),
+Form::text('telefono'),
+Form::help('Escriba su Telefono')
+)
+!!}
+{!!
+Form::hidden('nombreDeCurso',$curso->post_title)!!}
+{!!
+Form::hidden('fecha',$curso->FechaDeCurso->format('d-m-y'))
+!!}
+{!!
+Form::hidden('slug',$curso->post_name)
 !!}
 {!!
 Button::primary('Enviar Peticion')->block()->submit();

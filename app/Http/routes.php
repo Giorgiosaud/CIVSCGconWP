@@ -19,6 +19,7 @@ Route::get('noticia/{id}',['as'=>'noticia','uses'=>'NoticiasController@show']);
 Route::get('cursos',['as'=>'cursos','uses'=>'CursosController@index']);
 Route::get('categoriaCursos/{slug}',['as'=>'cursosTipos','uses'=>'CursosController@tipos']);
 Route::get('cursos/{slug}',['as'=>'detalleCursos','uses'=>'CursosController@detalles']);
+Route::post('cursos/{slug}',['as'=>'interesadoEnCursos','uses'=>'CursosController@interesado']);
 
 Route::get('inscripciones',['as'=>'areaInscripciones','uses'=>'PaginasController@inscripciones']);
 Route::get('inscripciones/beneficios',['as'=>'areaBeneficios','uses'=>'PaginasController@beneficios']);
