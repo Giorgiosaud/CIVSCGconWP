@@ -9,14 +9,14 @@
 				<div class="contenedorImagen">
 					{!! wp_get_attachment_image($pagina->meta->imagen_inscripciones,'bannerGrande') !!}
 				</div>
-				<div class="botonBanner">Inscripciones y Requisitos</div>
+				<div class="botonBanner botonBanerInicio">Inscripciones y Requisitos</div>
 			</div>
 			<div class="col-xs-6 text-center banner imagenVertical cursosBanner">
 				<div class="contenedorImagen">
 
 				{!! wp_get_attachment_image($pagina->meta->imagen_cursos,'bannerGrande') !!}
 </div>
-				<div class="botonBanner">
+				<div class="botonBanner botonBanerInicio">
 					<a href="{!!route('cursos')!!}">Cursos y Adiestramiento</a>
 				</div>
 			</div>
@@ -25,7 +25,7 @@
 
 				{!! wp_get_attachment_image($pagina->meta->imagen_fundacion,'bannerGrande') !!}
 </div>
-				<div class="botonBanner">
+				<div class="botonBanner botonBanerInicio">
 					Fundaciones Ascociadas
 				</div>
 			</div>
