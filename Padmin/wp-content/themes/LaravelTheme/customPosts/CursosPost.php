@@ -36,19 +36,7 @@ function crearcursos(){
     );
     register_post_type(	'Curso',	$postarg);
 }
-add_action('admin_head','curso_header');
-function curso_header(){
-    global $post_type;
-    ?>
-    <style>
-        <?php if (($_GET['post_type'] == 'Curso') || ($post_type == 'Curso')) : ?>
-        #icon-edit { background:transparent url('<?php echo plugins_url('filecolor36px');?>') no-repeat; }
-        <?php endif; ?>
-        #adminmenu #menu-posts-Curso div.wp-menu-image{background:transparent url("<?php echo plugins_url('filegray16px');?>") no-repeat center center;}
-        #adminmenu #menu-posts-Curso:hover div.wp-menu-image,#adminmenu #menu-posts-Curso.wp-has-current-submenu div.wp-menu-image{background:transparent url("<?php echo plugins_url('filecolor16px');?>") no-repeat center center;}
-    </style>
-<?php
-}
+
 add_filter( 'manage_edit-curso_columns', 'my_edit_cursos_columns' ) ;
 
 function my_edit_cursos_columns( $columns ) {
