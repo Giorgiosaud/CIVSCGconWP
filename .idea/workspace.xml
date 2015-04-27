@@ -58,8 +58,8 @@
       <file leaf-file-name="custom.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9436997" vertical-offset="9481" max-vertical-offset="10311">
-              <caret line="485" column="1" selection-start-line="485" selection-start-column="1" selection-end-line="485" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.8310992" vertical-offset="9334" max-vertical-offset="10080">
+              <caret line="474" column="0" selection-start-line="474" selection-start-column="0" selection-end-line="474" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -820,8 +820,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9436997" vertical-offset="9481" max-vertical-offset="10311">
-          <caret line="485" column="1" selection-start-line="485" selection-start-column="1" selection-end-line="485" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.8310992" vertical-offset="9334" max-vertical-offset="10080">
+          <caret line="474" column="0" selection-start-line="474" selection-start-column="0" selection-end-line="474" selection-end-column="0" />
           <folding />
         </state>
       </provider>
