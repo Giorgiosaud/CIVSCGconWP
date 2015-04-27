@@ -7,6 +7,11 @@ Navbar::setType('navbar-civscg')
 ->withContent(
 	Navigation::links(
 		[
+
+			[
+				'link' => URL::route('inicio'),
+				'title' => 'Inicio'
+			],
 			[
 				'link' => URL::route('noticias'),
 				'title' => 'Noticias'
