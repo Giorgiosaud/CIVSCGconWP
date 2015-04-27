@@ -26,6 +26,7 @@ function crearcursos(){
         'show_ui'=>true,
         'query_var'=>true,
         'rewrite'=>true,
+        'menu_icon'=>'dashicons-book',
         'capability_type'=>array('Curso','cursos'),
         'map_meta_cap'    => true,
         'has_archive'=>true,
