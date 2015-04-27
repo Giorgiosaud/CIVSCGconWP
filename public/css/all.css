@@ -8723,8 +8723,7 @@ footer {
   min-height: 127px;
   background-color: #1B1256;
   color: #FFF;
-  padding-top: 40px;
-  margin-top: 3em; }
+  padding-top: 40px; }
 
 #searchwrapper {
   width: 310px;
@@ -8804,7 +8803,9 @@ footer {
     height: 100%; }
     .imagenVertical .contenedorImagen img {
       position: relative;
-      left: -50%; }
+      left: -50%;
+      height: 100%;
+      width: auto; }
 
 .imagenHorizontal {
   overflow: hidden; }
@@ -8816,7 +8817,8 @@ footer {
     .imagenHorizontal .contenedorImagen img {
       position: relative;
       left: -50%;
-      width: 100%; }
+      width: 100%;
+      height: auto; }
 
 .descripcionNoticia {
   height: 300px; }

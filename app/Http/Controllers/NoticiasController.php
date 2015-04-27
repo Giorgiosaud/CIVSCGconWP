@@ -9,7 +9,7 @@ class NoticiasController extends Controller {
 
     public function index()
     {
-        $noticias=Noticia::published()->paginate(5);
+        $noticias=Noticia::published()->orderBy('post_date', 'desc')->paginate(5);
         //dd($noticias);
         return view('Noticias.all',compact('noticias'));
 
