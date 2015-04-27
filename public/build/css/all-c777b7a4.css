@@ -8570,7 +8570,7 @@ a img.aligncenter {
 li.active {
   background-color: #fff; }
   li.active a {
-    color: #1B1256 !important; }
+    color: #00A99D !important; }
 
 .navbar-civscg {
   background-color: #1B1256;
@@ -8725,10 +8725,11 @@ li.active {
   background-color: #00A99D; }
 
 footer {
-  min-height: 127px;
+  min-height: 40px;
   background-color: #1B1256;
   color: #FFF;
-  padding-top: 40px; }
+  padding-top: 10px;
+  font-size: 10px; }
 
 #searchwrapper {
   width: 310px;
