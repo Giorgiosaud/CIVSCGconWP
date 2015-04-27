@@ -25,11 +25,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CursosPost.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CursosPost.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.113842174" vertical-offset="886" max-vertical-offset="1659">
+            <state vertical-scroll-proportion="-33.25" vertical-offset="0" max-vertical-offset="1659">
               <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoticiasPost.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/NoticiasPost.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.875" vertical-offset="399" max-vertical-offset="1302">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FundacionesPost.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/FundacionesPost.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.461837" vertical-offset="378" max-vertical-offset="1281">
+              <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -40,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/views/Noticias/show.blade.php" />
         <option value="$PROJECT_DIR$/vendor/jgrossi/corcel/src/Corcel/Post.php" />
         <option value="$PROJECT_DIR$/vendor/jorgelsaud/carbonlocalizer/composer.json" />
         <option value="$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/composer.json" />
@@ -60,7 +79,6 @@
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/Periodista.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/customRoles.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customRoles/capabilitiesToRoles.php" />
-        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/NoticiasPost.php" />
         <option value="$PROJECT_DIR$/resources/views/Paginas/inscripciones.blade.php" />
         <option value="$PROJECT_DIR$/composer.lock" />
         <option value="$PROJECT_DIR$/.env" />
@@ -91,6 +109,8 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/CursosController.php" />
         <option value="$PROJECT_DIR$/Padmin/index.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php" />
+        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/NoticiasPost.php" />
+        <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/FundacionesPost.php" />
       </list>
     </option>
   </component>
@@ -407,20 +427,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EventosController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.054333765" vertical-offset="0" max-vertical-offset="966">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Eventos/all.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.054333765" vertical-offset="0" max-vertical-offset="966">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Paginas/inscripciones.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38033634" vertical-offset="0" max-vertical-offset="773">
@@ -824,8 +830,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.113842174" vertical-offset="886" max-vertical-offset="1659">
+        <state vertical-scroll-proportion="-33.25" vertical-offset="0" max-vertical-offset="1659">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/NoticiasPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.875" vertical-offset="399" max-vertical-offset="1302">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/FundacionesPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.461837" vertical-offset="378" max-vertical-offset="1281">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
           <folding />
         </state>
       </provider>
