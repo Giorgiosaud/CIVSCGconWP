@@ -55,20 +55,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="custom.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.098039" vertical-offset="4" max-vertical-offset="10059">
-              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.9436997" vertical-offset="9481" max-vertical-offset="10311">
+              <caret line="485" column="1" selection-start-line="485" selection-start-column="1" selection-end-line="485" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nav.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/Plantillas/extras/nav.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10737387" vertical-offset="148" max-vertical-offset="1050">
+            <state vertical-scroll-proportion="-3.4583333" vertical-offset="148" max-vertical-offset="1050">
               <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
               <folding>
                 <marker date="1430167165000" expanded="true" signature="59:257" placeholder="..." />
@@ -193,8 +193,8 @@
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/NoticiasPost.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/FundacionesPost.php" />
         <option value="$PROJECT_DIR$/config/debugbar.php" />
-        <option value="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" />
         <option value="$PROJECT_DIR$/resources/views/Plantillas/extras/nav.blade.php" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" />
       </list>
     </option>
   </component>
@@ -788,14 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.098039" vertical-offset="4" max-vertical-offset="10059">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="777">
@@ -806,7 +798,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Plantillas/extras/nav.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10737387" vertical-offset="148" max-vertical-offset="1050">
+        <state vertical-scroll-proportion="-3.4583333" vertical-offset="148" max-vertical-offset="1050">
           <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
           <folding>
             <marker date="1430167165000" expanded="true" signature="59:257" placeholder="..." />
@@ -823,6 +815,14 @@
             <marker date="1430167165000" expanded="true" signature="875:903" placeholder="..." />
             <marker date="1430167165000" expanded="true" signature="876:902" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9436997" vertical-offset="9481" max-vertical-offset="10311">
+          <caret line="485" column="1" selection-start-line="485" selection-start-column="1" selection-end-line="485" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
