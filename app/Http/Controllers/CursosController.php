@@ -30,7 +30,7 @@ class CursosController extends Controller {
             return view('Cursos.all', compact('cursos', 'taxs'));
         } else
         {
-            return view('Cursos.noHay');
+            return view('Cursos.noHay',compact('cursos', 'taxs'));
 
         }
     }
