@@ -13,9 +13,7 @@
 
 		<div class="col-xs-12 topIndividual">
 			<div class="textoIndividualNoticia">
-				<div class="tituloIndividual pull-left">
-					{!! $pagina->post_title!!}
-				</div>
+				
 				<div class="volverANoticias pull-right">
 					<a href="{!!route('noticias')!!}"><img
 								src="{!! get_theme_mod( 'volver_a_noticias', 'Volver a Noticias' ); !!}"
