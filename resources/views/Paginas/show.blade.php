@@ -9,7 +9,7 @@
 		</div>
 	</div>
 	<div class="container">
-		
+
 		<div class="col-xs-12 noticiaCompleta">
 			<p>	{!!apply_filters('the_content',$pagina->post_content)!!}</p>
 

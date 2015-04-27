@@ -9,21 +9,6 @@
 		</div>
 	</div>
 	<div class="container-fluid">
-
-
-		<div class="col-xs-12 topIndividual">
-			<div class="textoIndividualNoticia">
-				<div class="tituloIndividual pull-left">
-					{!! $fundacion->post_title!!}
-				</div>
-				<div class="volverANoticias pull-right">
-					<a href="{!!route('fundacionesycomisiones')!!}"><img
-								src="{!! get_theme_mod( 'volver_a_noticias', 'Volver a Noticias' ); !!}"
-								alt="Volver a Noticias"/></a>
-				</div>
-
-			</div>
-		</div>
 		<div class="col-xs-12 noticiaCompleta">
 			<p>	{!!apply_filters('the_content',$fundacion->post_content)!!}</p>
 		</div>
