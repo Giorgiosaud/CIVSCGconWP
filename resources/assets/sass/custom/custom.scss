@@ -9,11 +9,17 @@
 .navbar-toggle .icon-bar {
   background-color: $color-de-fuente;
 }
-
+li.active{
+  background-color: #fff;
+  a{
+    color: $color-nav-civscg !important;
+  }
+}
 .navbar-civscg {
   background-color: $color-nav-civscg;
   border-color: $nav-borde-civscg;
   min-height: $navm-h;
+
   .navbar-nav > li > a, .navbar-brand {
     height: auto;
     color: $color-de-fuente;

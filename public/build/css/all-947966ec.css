@@ -8567,6 +8567,11 @@ a img.aligncenter {
 .navbar-toggle .icon-bar {
   background-color: #FFF; }
 
+li.active {
+  background-color: #fff; }
+  li.active a {
+    color: #1B1256 !important; }
+
 .navbar-civscg {
   background-color: #1B1256;
   border-color: #0e092c;

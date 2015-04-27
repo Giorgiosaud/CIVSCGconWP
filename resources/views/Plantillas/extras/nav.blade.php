@@ -1,45 +1,40 @@
-<nav class="navbar navbar-default navbar-civscg">
-	<div class="container-fluid">
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-			        data-target="#navbar-principal">
-				<span class="sr-only">Toggle Navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-			@if( get_header_image() )
-				<a class="navbar-brand" href="{{ url('/') }}" rel="home">
-					<img src="<?php header_image(); ?>" width="<?php echo get_custom_header()->width; ?>"
-					     height="<?php echo get_custom_header()->height; ?>"
-					     alt="<?php echo esc_attr(get_bloginfo('name', 'display')); ?>">
-				</a>
-				<div class="clearfix"></div>
-			@else
-				<a class="navbar-brand" href="#">CIVSCG</a>
-			@endif
-		</div>
-
-		<div class="collapse navbar-collapse" id="navbar-principal">
-			<ul class="nav navbar-nav">
-				<li><a href="{{ url('noticias') }}">Noticias</a></li>
-				<li><a href="{{ url('/inscripciones') }}">Inscripción</a></li>
-				<li><a href="{{ url('/cursos') }}">Cursos</a></li>
-				<li><a href="{{ url('/fundacionesycomisiones') }}">Fundaciones y Comisiones</a></li>
-				<li><a href="{{ url('/eventos') }}">Eventos</a></li>
-				<li><a href="{{ url('/quienes-somos') }}">Somos</a></li>
-			</ul>
-
-			{{--<ul class="nav navbar-nav navbar-right">--}}
-			{{--<li>--}}
-			{{--<div id="searchwrapper"><form action="">--}}
-			{{--<input type="text" class="searchbox" name="s" value="" />--}}
-			{{--<input type="image" src="/images/lupa.png" class="searchbox_submit" value="" />--}}
-			{{--</form>--}}
-			{{--</div>--}}
-			{{--</li>--}}
-		</div>
-	</div>
-</nav>
+{!!
+Navbar::setType('navbar-civscg')
+->fluid()
+->withBrand('<img src="'.get_header_image().'" width="'.get_custom_header()->width.'"
+					     height="'.get_custom_header()->height.'"
+					     alt="'.esc_attr(get_bloginfo('name', 'display')).'">', url("/"))
+->withContent(
+	Navigation::links(
+		[
+			[
+				'link' => URL::route('noticias'),
+				'title' => 'Noticias'
+			],
+			[
+				'link' => URL::route('areaInscripciones'),
+				'title' => 'Inscripcion'
+			],
+			[
+				'link' => URL::route('cursos'),
+				'title' => 'Cursos'
+			],
+			[
+				'link' => URL::route('fundacionesycomisiones'),
+				'title' => 'Fundaciones y Comisiones'
+			],
+			[
+				'link' => URL::route('eventos'),
+				'title' => 'Eventos'
+			],
+			[
+				'link' => url('/quienes-somos'),
+				'title' => 'Somos'
+			],
+		]
+	)->withAttributes([
+	'id'=>'navbar-principal'])
+)
+!!}
 
 <div class="clearfix loading"></div>
