@@ -9,19 +9,7 @@
 		</div>
 	</div>
 	<div class="container">
-
-
-		<div class="col-xs-12 topIndividual">
-			<div class="textoIndividualNoticia">
-
-				<div class="volverANoticias pull-right">
-					<a href="{!!route('noticias')!!}"><img
-								src="{!! get_theme_mod( 'volver_a_noticias', 'Volver a Noticias' ); !!}"
-								alt="Volver a Noticias"/></a>
-				</div>
-
-			</div>
-		</div>
+		
 		<div class="col-xs-12 noticiaCompleta">
 			<p>	{!!apply_filters('the_content',$pagina->post_content)!!}</p>
 
