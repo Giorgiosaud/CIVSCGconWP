@@ -8568,9 +8568,9 @@ a img.aligncenter {
   background-color: #FFF; }
 
 li.active {
-  background-color: #fff; }
+  background-color: #00A99D; }
   li.active a {
-    color: #00A99D !important; }
+    color: #fff !important; }
 
 .navbar-civscg {
   background-color: #1B1256;
