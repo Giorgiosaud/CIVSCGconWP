@@ -31,7 +31,11 @@
 /Padmin/wp-content/themes/twentythirteen
 /Padmin/wp-content/themes/LaravelTheme/.idea
 /Padmin/wp-content/themes/index.php
-/Padmin/wp-content/plugins/
+/Padmin/wp-content/plugins/advanced-custom-fields
+/Padmin/wp-content/plugins/akismet
+/Padmin/wp-content/plugins/types
+/Padmin/wp-content/plugins/index.*
+/Padmin/wp-content/plugins/hello.*
 /.idea
 composer.lock
 .env
