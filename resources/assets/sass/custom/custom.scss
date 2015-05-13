@@ -33,7 +33,7 @@ li.active {
 }
 
 .navbar-nav {
-  margin-top: 80px;
+  margin-top: 10px;
   li {
     margin-bottom: -1px;
     & + li {
@@ -471,4 +471,7 @@ footer {
   a {
     color: white;
   }
+}
+.tituloPrincipal{
+  color:white;
 }

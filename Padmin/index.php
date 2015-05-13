@@ -11,7 +11,7 @@
  *
  * @var bool
  */
-header("Location: ./wp-admin");
+header('Location: ./wp-admin');
 exit();
 define('WP_USE_THEMES', true);
 
