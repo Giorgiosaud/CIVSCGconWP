@@ -3,9 +3,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="5ewehbpQ30FOQm5JDFR89R4XB2xXsV2BaSMym3Dskdo" />
 <meta name="description" CONTENT="{!! get_bloginfo( 'description', 'display' ) !!}">
+<meta name="author" content="Jorge Saud">
 <link rel="alternate" href="{!!route('inicio')!!}" hreflang="es" />
 <link rel="pingback" href="{!! bloginfo( 'pingback_url' ) !!}">
-<meta name="author" content="Jorge Saud">
+<meta name="Keywords" content="CIV, colegio de ingenieros, Venezuela, seccional Guayana, Ciudad Guayana, Ingenieros, Colegio, colegio, ingenieros guayana" />
 <title>@yield('titulo','CIVSCG')</title>
 
 <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
