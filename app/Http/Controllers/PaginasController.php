@@ -6,8 +6,10 @@ use App\Http\Controllers\Controller;
 
 use App\Http\Requests\ContactanosRequest;
 use App\Noticia;
+use Illuminate\Support\Facades\Mail;
 use jorgelsaud\Corcel\Page;
 use Illuminate\Http\Request;
+use Laracasts\Flash\Flash;
 
 class PaginasController extends Controller {
 
