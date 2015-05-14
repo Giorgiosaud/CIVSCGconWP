@@ -45,15 +45,7 @@
     )
     !!}
     {!!
-    Form::hidden('nombreDeCurso',$curso->post_title)!!}
-    {!!
-    Form::hidden('fecha',$curso->FechaDeCurso->format('d-m-y'))
-    !!}
-    {!!
-    Form::hidden('slug',$curso->post_name)
-    !!}
-    {!!
-    Button::primary('Enviar Peticion')->block()->submit();
+    Button::primary('Contáctanos')->block()->submit();
     !!}
     {!!Form::close()!!}
 
