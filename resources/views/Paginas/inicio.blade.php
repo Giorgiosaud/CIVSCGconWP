@@ -26,7 +26,7 @@
 					{!! wp_get_attachment_image($pagina->meta->imagen_fundacion,'bannerGrande') !!}
 				</div>
 				<div class="botonBanner botonBanerInicio">
-					<a href="{!!route('fundacionesycomisiones')!!}">Fundaciones Ascociadas</a>
+					<a href="{!!route('fundacionesycomisiones')!!}">Fundaciones Asociadas</a>
 				</div>
 			</div>
 			<div class="clearfix"></div>
