@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a83fb2e0-3679-4c9c-b653-0afbfcd4e1d7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php" afterPath="$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php" />
     </list>
     <ignored path="CIVSCGconWP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,12 +27,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="contacto.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contacto.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6538463" vertical-offset="0" max-vertical-offset="253">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.73826456" vertical-offset="815" max-vertical-offset="1518">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <folding>
+                <marker date="1431640848000" expanded="true" signature="334:438" placeholder="..." />
+                <marker date="1431640848000" expanded="true" signature="483:604" placeholder="..." />
+                <marker date="1431640848000" expanded="true" signature="649:753" placeholder="..." />
+                <marker date="1431640848000" expanded="true" signature="798:914" placeholder="..." />
+                <marker date="1431640848000" expanded="true" signature="959:1083" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Cursos/show.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="7.4615383" vertical-offset="194" max-vertical-offset="897">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formularioCurso.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Cursos/extras/formularioCurso.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.73077" vertical-offset="723" max-vertical-offset="1426">
+              <caret line="56" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <marker date="1431377574000" expanded="true" signature="206:294" placeholder="..." />
+                <marker date="1431377574000" expanded="true" signature="327:432" placeholder="..." />
+                <marker date="1431377574000" expanded="true" signature="465:553" placeholder="..." />
+                <marker date="1431377574000" expanded="true" signature="586:686" placeholder="..." />
+                <marker date="1431377574000" expanded="true" signature="719:827" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,16 +83,16 @@
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-7.9615383" vertical-offset="92" max-vertical-offset="851">
-              <caret line="22" column="81" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="81" />
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PaginasController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PaginasController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaginasController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39260313" vertical-offset="0" max-vertical-offset="1150">
+            <state vertical-scroll-proportion="-10.615385" vertical-offset="0" max-vertical-offset="1150">
               <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding />
             </state>
@@ -126,9 +155,9 @@
         <option value="$PROJECT_DIR$/resources/views/Paginas/extras/carrusel.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Eventos/all.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Noticias/all.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" />
+        <option value="$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php" />
       </list>
     </option>
   </component>
@@ -224,6 +253,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Paginas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cursos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCGconWP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CIVSCG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cursos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extras" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,20 +449,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Noticia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.583334" vertical-offset="781" max-vertical-offset="1554">
-          <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/NoticiasController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.0" vertical-offset="0" max-vertical-offset="525">
-          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/bootstrapper.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="797">
@@ -756,10 +819,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaginasController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6538463" vertical-offset="0" max-vertical-offset="253">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="-10.615385" vertical-offset="0" max-vertical-offset="1150">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -767,16 +830,44 @@
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.9615383" vertical-offset="92" max-vertical-offset="851">
-          <caret line="22" column="81" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="81" />
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaginasController.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/Cursos/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39260313" vertical-offset="0" max-vertical-offset="1150">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state vertical-scroll-proportion="7.4615383" vertical-offset="194" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Cursos/extras/formularioCurso.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.73077" vertical-offset="723" max-vertical-offset="1426">
+          <caret line="56" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <marker date="1431377574000" expanded="true" signature="206:294" placeholder="..." />
+            <marker date="1431377574000" expanded="true" signature="327:432" placeholder="..." />
+            <marker date="1431377574000" expanded="true" signature="465:553" placeholder="..." />
+            <marker date="1431377574000" expanded="true" signature="586:686" placeholder="..." />
+            <marker date="1431377574000" expanded="true" signature="719:827" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73826456" vertical-offset="815" max-vertical-offset="1518">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <marker date="1431640848000" expanded="true" signature="334:438" placeholder="..." />
+            <marker date="1431640848000" expanded="true" signature="483:604" placeholder="..." />
+            <marker date="1431640848000" expanded="true" signature="649:753" placeholder="..." />
+            <marker date="1431640848000" expanded="true" signature="798:914" placeholder="..." />
+            <marker date="1431640848000" expanded="true" signature="959:1083" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
