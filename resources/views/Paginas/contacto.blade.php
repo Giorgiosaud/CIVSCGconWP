@@ -6,7 +6,7 @@
             <li class="list-group-item list-group-item-danger">{{ $error }}</li>
         @endforeach
     </ul>
-    <h2 class="text-center">Contactanos</h2>
+    <h2 class="text-center">Contáctanos</h2>
 
     {!!Form::horizontal()!!}
     {!!
@@ -44,6 +44,14 @@
     Form::help('Escriba su Telefono')
     )
     !!}
+    {!!
+    ControlGroup::generate(
+    Form::label('contenido', 'Contenido'),
+    Form::textarea('contenido'),
+    Form::help('¿Que deseas Decirnos?')
+    )
+    !!}
+
     {!!
     Button::primary('Contáctanos')->block()->submit();
     !!}
