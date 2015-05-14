@@ -8,7 +8,7 @@
 	</ol>
 	<div class="carousel-inner" role="listbox">
 		@foreach($noticias as $i=>$noticia )
-			<div class="item imagenVertical @if($i==0) active @endif">
+			<div class="item imagenHorizontal @if($i==0) active @endif">
 				<div class="contenedorImagen">
 					{!!wp_get_attachment_image($noticia->meta->imagen_principal,'Slider')!!}
 				</div>
