@@ -21,6 +21,7 @@ Route::get('categoriaCursos/{slug}',['as'=>'cursosTipos','uses'=>'CursosControll
 Route::get('cursos/{slug}',['as'=>'detalleCursos','uses'=>'CursosController@detalles']);
 Route::post('cursos/{slug}',['as'=>'interesadoEnCursos','uses'=>'CursosController@interesado']);
 Route::get('contactanos',['as'=>'Contactanos','uses'=>'PaginasController@contacto']);
+Route::post('contactanos',['as'=>'Contactanos','uses'=>'PaginasController@enviarContacto']);
 Route::get('inscripciones',['as'=>'areaInscripciones','uses'=>'PaginasController@inscripciones']);
 Route::get('inscripciones/beneficios',['as'=>'areaBeneficios','uses'=>'PaginasController@beneficios']);
 

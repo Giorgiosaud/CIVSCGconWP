@@ -4,6 +4,7 @@ use App\Evento;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
+use App\Http\Requests\ContactanosRequest;
 use App\Noticia;
 use jorgelsaud\Corcel\Page;
 use Illuminate\Http\Request;
@@ -17,6 +18,19 @@ class PaginasController extends Controller {
     }
     public function contacto(){
         return view('Paginas.contacto');
+    }
+    public function enviarContacto(ContactanosRequest $request){
+        Flash::success('Mensaje Enviado Correctamente Pronto nos pondremos en contacto con usted ');
+        $subject=$request->input('Contacto A Travez de La Página');
+        Mail::send('Paginas.extras.contactanos', $request->all(), function ($message) use ($subject)
+        {
+            $message->from('contacto@civscg.com.ve', 'Contacto Colegio de Ingenieros');
+            $email = get_theme_mod('email_contactanos', 'jorgesaud1986@gmail.com');
+            $message->to($email, 'Cursos')->subject('Interesado en curso! '.$subject);
+        });
+        $curso = Curso::wherePostName($request->input('slug'))->first();
+
+        return view('Cursos.show', compact('curso'));
     }
     public function inscripciones(){
         $pagina=Page::slug('inscripciones')->first();
