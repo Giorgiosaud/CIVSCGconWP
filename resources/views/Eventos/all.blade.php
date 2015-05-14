@@ -4,7 +4,7 @@
 	{{--@include('Cursos.extras.tags')--}}
 	@foreach($eventos as $i=>$evento)
 		<div class="container-fluid container-fluid-pegadito cursos">
-			<div class="col-xs-12 col-sm-6 imagenVertical @if($i%2!=0) pull-right @endif">
+			<div class="col-xs-12 col-sm-6 imagenHorizontal @if($i%2!=0) pull-right @endif">
 				<div class="contenedorImagen">
 					{!!wp_get_attachment_image($evento->meta->imagen_principal,'multiple')!!}
 				</div>
