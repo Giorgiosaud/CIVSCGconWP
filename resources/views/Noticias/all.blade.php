@@ -3,7 +3,7 @@
 
 	@foreach($noticias as $i=>$noticia)
 		<div class="container-fluid container-fluid-pegadito">
-			<div class="col-xs-12 col-sm-6 imagenVertical @if($i%2!=0) pull-right @endif">
+			<div class="col-xs-12 col-sm-6 imagenHorizontal @if($i%2!=0) pull-right @endif">
 				<div class="contenedorImagen">
 					{!!wp_get_attachment_image($noticia->meta->imagen_principal,'multiple')!!}
 				</div>
