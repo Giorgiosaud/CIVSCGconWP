@@ -29,7 +29,7 @@ class PaginasController extends Controller {
     public function enviarContacto(ContactanosRequest $request)
     {
         Flash::success('Mensaje Enviado Correctamente Pronto nos pondremos en contacto con usted ');
-        Mail::send('Paginas.extras.contactanos', $request->all(), function ($message) use ($subject)
+        Mail::send('Paginas.extras.contactanos', $request->all(), function ($message)
         {
             $message->from('contacto@civscg.com.ve', 'Contacto Colegio de Ingenieros');
             $email = get_theme_mod('email_contacto', 'jorgesaud1986@gmail.com');
