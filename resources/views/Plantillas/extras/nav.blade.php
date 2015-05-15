@@ -39,6 +39,10 @@ Navbar::setType('navbar-civscg')
 				'link' => url('/quienes-somos'),
 				'title' => 'Somos'
 			],
+			[
+				'link' => url('/contactanos'),
+				'title' => 'Contáctanos'
+			],
 		]
 	)->withAttributes([
 	'id'=>'navbar-principal'])
