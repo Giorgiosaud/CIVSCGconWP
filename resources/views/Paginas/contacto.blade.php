@@ -53,7 +53,7 @@
     !!}
 
     {!!
-    Button::primary('Contáctanos')->block()->submit();
+    Button::primary('Contáctanos')->block()->addAttributes(['class'=>'botonInferior'])->submit();
     !!}
     {!!Form::close()!!}
 

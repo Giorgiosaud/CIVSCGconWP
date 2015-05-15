@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a83fb2e0-3679-4c9c-b653-0afbfcd4e1d7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php" afterPath="$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php" />
     </list>
     <ignored path="CIVSCGconWP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,12 +37,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PaginasController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PaginasController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaginasController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39829302" vertical-offset="249" max-vertical-offset="1403">
+            <state vertical-scroll-proportion="-10.769231" vertical-offset="249" max-vertical-offset="1403">
               <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacto.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6401138" vertical-offset="815" max-vertical-offset="1518">
+              <caret line="55" column="86" selection-start-line="55" selection-start-column="86" selection-end-line="55" selection-end-column="86" />
+              <folding>
+                <marker date="1431704788000" expanded="true" signature="372:476" placeholder="..." />
+                <marker date="1431704788000" expanded="true" signature="521:642" placeholder="..." />
+                <marker date="1431704788000" expanded="true" signature="687:791" placeholder="..." />
+                <marker date="1431704788000" expanded="true" signature="836:952" placeholder="..." />
+                <marker date="1431704788000" expanded="true" signature="997:1121" placeholder="..." />
+                <marker date="1431704788000" expanded="true" signature="1166:1287" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -175,13 +192,13 @@
         <option value="$PROJECT_DIR$/resources/views/Paginas/extras/carrusel.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Eventos/all.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Noticias/all.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/Http/Requests/ContactanosRequest.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php" />
         <option value="$PROJECT_DIR$/resources/lang/es/validation.php" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" />
+        <option value="$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php" />
       </list>
     </option>
   </component>
@@ -314,7 +331,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.lastSelected" value="editor.preferences.smartKeys" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -773,21 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-29.192308" vertical-offset="391" max-vertical-offset="1518">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-          <folding>
-            <marker date="1431641216000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431641216000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431641216000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431641216000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431641216000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431641216000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CursosController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.653846" vertical-offset="930" max-vertical-offset="1771">
@@ -868,9 +870,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaginasController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39829302" vertical-offset="249" max-vertical-offset="1403">
+        <state vertical-scroll-proportion="-10.769231" vertical-offset="249" max-vertical-offset="1403">
           <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6401138" vertical-offset="815" max-vertical-offset="1518">
+          <caret line="55" column="86" selection-start-line="55" selection-start-column="86" selection-end-line="55" selection-end-column="86" />
+          <folding>
+            <marker date="1431704788000" expanded="true" signature="372:476" placeholder="..." />
+            <marker date="1431704788000" expanded="true" signature="521:642" placeholder="..." />
+            <marker date="1431704788000" expanded="true" signature="687:791" placeholder="..." />
+            <marker date="1431704788000" expanded="true" signature="836:952" placeholder="..." />
+            <marker date="1431704788000" expanded="true" signature="997:1121" placeholder="..." />
+            <marker date="1431704788000" expanded="true" signature="1166:1287" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
