@@ -29,12 +29,11 @@ class PaginasController extends Controller {
     public function enviarContacto(ContactanosRequest $request)
     {
         Flash::success('Mensaje Enviado Correctamente Pronto nos pondremos en contacto con usted ');
-        $subject = $request->input('Contacto A Travez de La Página');
         Mail::send('Paginas.extras.contactanos', $request->all(), function ($message) use ($subject)
         {
             $message->from('contacto@civscg.com.ve', 'Contacto Colegio de Ingenieros');
             $email = get_theme_mod('email_contacto', 'jorgesaud1986@gmail.com');
-            $message->to($email, 'Cursos')->subject('Interesado en curso! ' . $subject);
+            $message->to($email, 'Contacto')->subject('Contacto A Travez de La Página ');
         });
 
         return view('Paginas.contacto');
