@@ -32,7 +32,7 @@ class PaginasController extends Controller {
         Mail::send('Paginas.extras.contactanos', $request->all(), function ($message)
         {
             $message->from('contacto@civscg.com.ve', 'Contacto Colegio de Ingenieros');
-            $email = get_theme_mod('email_contacto', 'jorgesaud1986@gmail.com');
+            $email = get_theme_mod('email_contacto', 'jorgelsaud@gmail.com');
             $message->to($email, 'Contacto')->subject('Contacto A Travez de La Página ');
         });
 
