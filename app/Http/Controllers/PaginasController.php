@@ -38,56 +38,57 @@ class PaginasController extends Controller {
         });
 
         return view('Paginas.contacto');
-        public
-        function inscripciones()
-        {
-            $pagina = Page::slug('inscripciones')->first();
-            $noticias = Noticia::published()->take(4)->get();
+    }
 
-            return view('Paginas.inscripciones', compact('pagina', 'noticias'));
-        }
+    public function inscripciones()
+    {
+        $pagina = Page::slug('inscripciones')->first();
+        $noticias = Noticia::published()->take(4)->get();
 
-        public
-        function paginas($slug)
-        {
-            $pagina = Page::slug($slug)->first();
+        return view('Paginas.inscripciones', compact('pagina', 'noticias'));
+    }
 
-            return view('Paginas.show', compact('pagina'));
-        }
+    public
+    function paginas($slug)
+    {
+        $pagina = Page::slug($slug)->first();
 
-        public
-        function requisitos()
-        {
-            $pagina = Page::slug('requisitos')->first();
+        return view('Paginas.show', compact('pagina'));
+    }
 
-            return view('Paginas.show', compact('pagina'));
-        }
+    public
+    function requisitos()
+    {
+        $pagina = Page::slug('requisitos')->first();
 
-        public
-        function solvencias()
-        {
-            $pagina = Page::slug('solvencias')->first();
+        return view('Paginas.show', compact('pagina'));
+    }
 
-            return view('Paginas.show', compact('pagina'));
+    public
+    function solvencias()
+    {
+        $pagina = Page::slug('solvencias')->first();
 
-        }
-
-        public
-        function quienesSomos()
-        {
-            $pagina = Page::slug('quienes-somos')->first();
-
-            return view('Paginas.show', compact('pagina'));
-        }
-
-        public
-        function prueba()
-        {
-            $pagina = Page::slug('inscripciones')->first();
-
-            //$noticias=Noticia::published()->take(4)->get();
-            return view('prueba', compact('pagina'));
-        }
-
+        return view('Paginas.show', compact('pagina'));
 
     }
+
+    public
+    function quienesSomos()
+    {
+        $pagina = Page::slug('quienes-somos')->first();
+
+        return view('Paginas.show', compact('pagina'));
+    }
+
+    public
+    function prueba()
+    {
+        $pagina = Page::slug('inscripciones')->first();
+
+        //$noticias=Noticia::published()->take(4)->get();
+        return view('prueba', compact('pagina'));
+    }
+
+
+}
