@@ -30,9 +30,7 @@ class PaginasController extends Controller {
             $email = get_theme_mod('email_contactanos', 'jorgesaud1986@gmail.com');
             $message->to($email, 'Cursos')->subject('Interesado en curso! '.$subject);
         });
-        $curso = Curso::wherePostName($request->input('slug'))->first();
-
-        return view('Cursos.show', compact('curso'));
+        return view('Paginas.contacto');
     }
     public function inscripciones(){
         $pagina=Page::slug('inscripciones')->first();
