@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a83fb2e0-3679-4c9c-b653-0afbfcd4e1d7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" afterPath="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" />
     </list>
     <ignored path="CIVSCGconWP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,14 +28,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PaginasController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaginasController.php">
+      <file leaf-file-name="custom.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4268126" vertical-offset="470" max-vertical-offset="2277">
-              <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
-              <folding>
-                <element signature="e#39#54#0#PHP" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.86730504" vertical-offset="10383" max-vertical-offset="11155">
+              <caret line="479" column="1" selection-start-line="479" selection-start-column="1" selection-end-line="479" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -94,10 +93,10 @@
         <option value="$PROJECT_DIR$/resources/lang/es/validation.php" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resources/views/Paginas/contacto.blade.php" />
-        <option value="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" />
         <option value="$PROJECT_DIR$/resources/views/Paginas/extras/contactanos.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Plantillas/extras/nav.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PaginasController.php" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/custom/custom.scss" />
       </list>
     </option>
   </component>
@@ -772,26 +771,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.5" vertical-offset="10383" max-vertical-offset="11155">
-          <caret line="478" column="20" selection-start-line="478" selection-start-column="20" selection-end-line="478" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43491125" vertical-offset="833" max-vertical-offset="2668">
           <caret line="49" column="23" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Padmin/wp-includes/theme.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34566146" vertical-offset="20434" max-vertical-offset="47127">
-          <caret line="904" column="9" selection-start-line="904" selection-start-column="9" selection-end-line="904" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -863,13 +846,324 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-includes/theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34473324" vertical-offset="20425" max-vertical-offset="47127">
+          <caret line="904" column="9" selection-start-line="904" selection-start-column="9" selection-end-line="904" selection-end-column="9" />
+          <folding>
+            <marker date="1431377964000" expanded="false" signature="-1:-1" placeholder=" Theme, template, and stylesheet functions. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Returns an array of WP_Theme objects based on the arguments. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Gets a WP_Theme object for a theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Clears the cache held by get_theme_roots() and WP_Theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Whether a child theme is in use. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve name of the current stylesheet. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the name of current stylesheet. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve stylesheet directory path for current theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the stylesheet directory path for current theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve stylesheet directory URI. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the stylesheet directory URI. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve URI of current theme stylesheet. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the URI of the current theme stylesheet. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve localized stylesheet URI. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the localized stylesheet URI. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve name of the current theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the name of the current theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve current theme directory. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the current theme directory path. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve theme directory URI. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the current theme directory URI. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve theme roots. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Register a directory that contains themes. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Search all registered theme directories for complete and valid themes. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter whether to get the cache of the registered theme directories. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve path to themes directory. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the absolute path to the themes directory. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve URI for themes directory. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the URI for themes directory. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Get the raw theme root relative to the content directory with no filters applied. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Display localized stylesheet link element. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Start preview theme output buffer. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Private function to modify the current template when previewing a theme ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Private function to modify the current stylesheet when previewing a theme ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Callback function for ob_start() to capture all links in the theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Manipulates preview theme links in order to control and maintain location. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Switches the theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Fires after the theme is switched. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Checks that current theme files 'index.php' and 'style.css' exists. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter whether to validate the current theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve all theme modifications. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve theme modification value for the current theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the theme modification, or 'theme_mod', value. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Update theme modification value for the current theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter the theme mod value on save. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Remove theme modification name from current theme list. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Remove theme modifications option for current theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve text color for custom header. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Display text color for custom header. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Whether to display the header text. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Check whether a header image is set or not. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve header image for custom header. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Get random header image data from registered images in theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Get random header image url from registered images in theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Check if random header image is in use. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Display header image URL. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Get the header images uploaded for the current theme. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Get the header image data. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Register a selection of default headers to be displayed by the custom header admin UI. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Unregister default headers. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve background image for custom background. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Display background image path. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve value for custom background color. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Display background color value. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Default custom background callback. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Add callback for custom TinyMCE editor stylesheets. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Removes all visual editor stylesheets. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Retrieve any registered editor stylesheets ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Allows a theme to register its support of a certain feature ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Registers the internal custom header and background routines. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Gets the theme support arguments passed when registering that support ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Allows a theme to de-register its support of a certain feature ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Do not use. Removes theme support internally, ignorant of the blacklist. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Checks a theme's support for a given feature ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Filter whether the current theme supports a specific feature. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Checks a theme's support for a given feature before loading the functions which implement it. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Checks an attachment being deleted to see if it's a header or background image. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Checks if a theme has been changed and runs 'after_switch_theme' hook on the next WP load ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Fires on the first WP load after a theme switch if the old theme still exists. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Includes and instantiates the WP_Customize_Manager class. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Adds settings for the customize-loader script. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Returns a URL to load the Customizer. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Prints a script to check whether or not the Customizer is supported, ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder=" Whether the site is being previewed in the Customizer. ..." />
+            <marker date="1431377964000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaginasController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4268126" vertical-offset="470" max-vertical-offset="2277">
-          <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+        <state vertical-scroll-proportion="0.31737345" vertical-offset="251" max-vertical-offset="2070">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
           <folding>
-            <element signature="e#39#54#0#PHP" expanded="true" />
+            <marker date="1431705818000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1431705818000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.86730504" vertical-offset="10383" max-vertical-offset="11155">
+          <caret line="479" column="1" selection-start-line="479" selection-start-column="1" selection-end-line="479" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
