@@ -70,7 +70,7 @@ class CursosController extends Controller {
         {
             $message->from('cursos@civscg.com.ve', 'Cursos Colegio de Ingenieros');
 
-            dd($email);
+//            dd($email);
             $message->to($email, 'Cursos')->subject('Interesado en curso! '.$subject);
         });
         $curso = Curso::wherePostName($request->input('slug'))->first();
