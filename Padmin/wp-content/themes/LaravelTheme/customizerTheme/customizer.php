@@ -63,15 +63,6 @@ function example_customizer($wp_customize)
         )
     );
     $wp_customize->add_control(
-            'correo_prueba',
-            array(
-                'label'          => __( 'Correo Prueba', 'LaravelTheme' ),
-                'section'        => 'cursos',
-                'settings'       => 'emails',
-                'type'           => 'text'
-            )
-    );
-    $wp_customize->add_control(
         new WP_Customize_Control(
             $wp_customize,
             'email_de_cursos',
