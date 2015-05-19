@@ -44,6 +44,12 @@ function example_customizer($wp_customize)
         )
     );
     $wp_customize->add_setting(
+        'imagen_area_eventos',
+        array(
+            'default' => 'Imagen area eventos',
+        )
+    );
+    $wp_customize->add_setting(
         'emails',
         array(
             'default' => 'jorgelsaud@gmail.com',
@@ -118,6 +124,18 @@ function example_customizer($wp_customize)
                 'label'    => __('Sube tu Imagen', 'LaravelTheme'),
                 'section'  => 'extraSection',
                 'settings' => 'imagen_area_cursos',
+                'context'  => 'Imagen de Cursos'
+            )
+        )
+    );
+    $wp_customize->add_control(
+        new WP_Customize_Image_Control(
+            $wp_customize,
+            'imagen_area_eventos',
+            array(
+                'label'    => __('Sube tu Imagen', 'LaravelTheme'),
+                'section'  => 'extraSection',
+                'settings' => 'imagen_area_eventos',
                 'context'  => 'Imagen de Cursos'
             )
         )
