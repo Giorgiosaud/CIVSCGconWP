@@ -30,8 +30,8 @@
       <file leaf-file-name="customizer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.88098496" vertical-offset="1472" max-vertical-offset="3151">
-              <caret line="92" column="8" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.69220245" vertical-offset="1150" max-vertical-offset="3611">
+              <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -1380,8 +1380,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88098496" vertical-offset="1472" max-vertical-offset="3151">
-          <caret line="92" column="8" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.69220245" vertical-offset="1150" max-vertical-offset="3611">
+          <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
           <folding />
         </state>
       </provider>
