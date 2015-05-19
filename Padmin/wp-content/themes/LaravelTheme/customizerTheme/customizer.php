@@ -53,12 +53,15 @@ function example_customizer( $wp_customize ) {
         )
     );
     $wp_customize->add_control(
-        'email_de_cursos',
-        array(
-            'label'    => __( 'Email de Cursos', 'LaravelTheme' ),
-            'section'  => 'cursos',
-            'settings' => 'email_cursos',
-            'type'     => 'text',
+        new WP_Customize_Control(
+            $wp_customize,
+            'email_de_cursos',
+            array(
+                'label'    => __( 'Email de Cursos', 'LaravelTheme' ),
+                'section'  => 'cursos',
+                'settings' => 'email_cursos',
+                'type'     => 'text',
+            )
         )
     );
     $wp_customize->add_control(
