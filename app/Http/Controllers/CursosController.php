@@ -71,7 +71,7 @@ class CursosController extends Controller {
             $message->from('cursos@civscg.com.ve', 'Cursos Colegio de Ingenieros');
 
 //            dd($email);
-            $message->to($email, 'Cursos')->subject('Interesado en curso! '.$subject);
+            $message->to($email, 'Cursos')->subject('Interesado en curso! '.$subject)->cc('cursos@civscg.com.ve');
         });
         $curso = Curso::wherePostName($request->input('slug'))->first();
 
