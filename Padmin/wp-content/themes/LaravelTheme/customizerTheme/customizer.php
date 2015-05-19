@@ -62,7 +62,7 @@ function example_customizer( $wp_customize ) {
         )
     );
     $wp_customize->add_control(
-        '    email_contactanos',
+        'email_contactanos',
         array(
             'label'    => __( 'Email de Contacto', 'LaravelTheme' ),
             'section'  => 'cursos',

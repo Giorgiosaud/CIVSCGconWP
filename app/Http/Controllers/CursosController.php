@@ -65,10 +65,11 @@ class CursosController extends Controller {
     {
         Flash::success('Mensaje Enviado Correctamente Pronto nos pondremos en contacto con usted ');
         $subject=$request->input('nombreDeCurso');
-        Mail::send('Cursos.email', $request->all(), function ($message) use ($subject)
+        $email = get_theme_mod('email_contactanos','no definido');
+        Mail::send('Cursos.email', $request->all(), function ($message) use ($subject,$email)
         {
             $message->from('cursos@civscg.com.ve', 'Cursos Colegio de Ingenieros');
-            $email = get_theme_mod('email_de_cursos');
+
             dd($email);
             $message->to($email, 'Cursos')->subject('Interesado en curso! '.$subject);
         });
