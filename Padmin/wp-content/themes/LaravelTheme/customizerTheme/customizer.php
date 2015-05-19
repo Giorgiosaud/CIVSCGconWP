@@ -1,25 +1,28 @@
 <?php
-function example_customizer_menu( $wp_customize ) {
-    add_theme_page( 'Editar Tema', 'Editar Tema', 'edit_theme_options', 'customize.php' );
+function example_customizer_menu($wp_customize)
+{
+    add_theme_page('Editar Tema', 'Editar Tema', 'edit_theme_options', 'customize.php');
 }
-add_action( 'admin_menu', 'example_customizer_menu' );
+
+add_action('admin_menu', 'example_customizer_menu');
 
 
-function example_customizer( $wp_customize ) {
+function example_customizer($wp_customize)
+{
     $wp_customize->add_section(
         'extraSection',
         array(
-            'title' => 'Configuraciones Extra',
+            'title'       => 'Configuraciones Extra',
             'description' => 'Es una seccion de Configuraciones Extras.',
-            'priority' => 200,
+            'priority'    => 200,
         )
     );
     $wp_customize->add_section(
         'cursos',
         array(
-            'title' => 'Configuraciones de Cursos',
+            'title'       => 'Configuraciones de Cursos',
             'description' => 'Es una seccion de Configuraciones de los cursos.',
-            'priority' => 200,
+            'priority'    => 200,
         )
     );
     $wp_customize->add_setting(
@@ -57,7 +60,7 @@ function example_customizer( $wp_customize ) {
             $wp_customize,
             'email_de_cursos',
             array(
-                'label'    => __( 'Email de Cursos', 'LaravelTheme' ),
+                'label'    => __('Email de Cursos', 'LaravelTheme'),
                 'section'  => 'cursos',
                 'settings' => 'email_cursos',
                 'type'     => 'text',
@@ -65,12 +68,15 @@ function example_customizer( $wp_customize ) {
         )
     );
     $wp_customize->add_control(
-        'email_contactanos',
-        array(
-            'label'    => __( 'Email de Contacto', 'LaravelTheme' ),
-            'section'  => 'cursos',
-            'settings' => 'email_contacto',
-            'type'     => 'text',
+        new WP_Customize_Control(
+            $wp_customize,
+            'email_contactanos',
+            array(
+                'label'    => __('Email de Contacto', 'LaravelTheme'),
+                'section'  => 'cursos',
+                'settings' => 'email_contacto',
+                'type'     => 'text',
+            )
         )
     );
     $wp_customize->add_control(
@@ -78,10 +84,10 @@ function example_customizer( $wp_customize ) {
             $wp_customize,
             'Leer_mas',
             array(
-                'label'      => __( 'Sube tu Imagen', 'LaravelTheme' ),
-                'section'    => 'extraSection',
-                'settings'   => 'Leer_mas',
-                'context'    => 'Imagen de Leer Mas'
+                'label'    => __('Sube tu Imagen', 'LaravelTheme'),
+                'section'  => 'extraSection',
+                'settings' => 'Leer_mas',
+                'context'  => 'Imagen de Leer Mas'
             )
         )
     );
@@ -90,10 +96,10 @@ function example_customizer( $wp_customize ) {
             $wp_customize,
             'volver_a_noticias',
             array(
-                'label'      => __( 'Sube tu Imagen', 'LaravelTheme' ),
-                'section'    => 'extraSection',
-                'settings'   => 'volver_a_noticias',
-                'context'    => 'Imagen de Leer Mas'
+                'label'    => __('Sube tu Imagen', 'LaravelTheme'),
+                'section'  => 'extraSection',
+                'settings' => 'volver_a_noticias',
+                'context'  => 'Imagen de Leer Mas'
             )
         )
     );
@@ -102,13 +108,14 @@ function example_customizer( $wp_customize ) {
             $wp_customize,
             'imagen_area_cursos',
             array(
-                'label'      => __( 'Sube tu Imagen', 'LaravelTheme' ),
-                'section'    => 'extraSection',
-                'settings'   => 'imagen_area_cursos',
-                'context'    => 'Imagen de Cursos'
+                'label'    => __('Sube tu Imagen', 'LaravelTheme'),
+                'section'  => 'extraSection',
+                'settings' => 'imagen_area_cursos',
+                'context'  => 'Imagen de Cursos'
             )
         )
     );
 }
-add_action( 'customize_register', 'example_customizer' );
+
+add_action('customize_register', 'example_customizer');
 ?>
