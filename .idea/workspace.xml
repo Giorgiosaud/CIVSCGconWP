@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a83fb2e0-3679-4c9c-b653-0afbfcd4e1d7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/CursosController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/CursosController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php" afterPath="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php" />
     </list>
     <ignored path="CIVSCGconWP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +31,8 @@
       <file leaf-file-name="CursosController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CursosController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4377565" vertical-offset="1060" max-vertical-offset="1817">
-              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.40629274" vertical-offset="1060" max-vertical-offset="1817">
+              <caret line="67" column="43" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -1355,47 +1356,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15731874" vertical-offset="1334" max-vertical-offset="3335">
-          <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.40902874" vertical-offset="1334" max-vertical-offset="3059">
+          <caret line="71" column="43" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="43" />
           <folding>
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432073135000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432073429000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CursosController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4377565" vertical-offset="1060" max-vertical-offset="1817">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.40629274" vertical-offset="1060" max-vertical-offset="1817">
+          <caret line="67" column="43" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
           <folding />
         </state>
       </provider>

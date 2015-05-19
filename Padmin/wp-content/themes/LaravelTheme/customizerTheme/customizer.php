@@ -53,7 +53,7 @@ function example_customizer($wp_customize)
     $wp_customize->add_setting(
         'email_cursos',
         array(
-            'default' => 'fundacioncursos@civscg.com.ve',
+            'default' => 'jorgelsaud@gmail.com',
         )
     );
     $wp_customize->add_setting(
@@ -85,18 +85,6 @@ function example_customizer($wp_customize)
             )
         )
     );
-    $wp_customize->add_control(
-        new WP_Customize_Control(
-            $wp_customize,
-            'email_contactanos',
-            array(
-                'label'          => __( 'Email de Contacto', 'LaravelTheme' ),
-                'section'        => 'cursos',
-                'settings'       => 'email_contacto'
-            )
-        )
-    );
-
 
     $wp_customize->add_control(
         new WP_Customize_Image_Control(
