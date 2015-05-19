@@ -69,6 +69,7 @@ class CursosController extends Controller {
         {
             $message->from('cursos@civscg.com.ve', 'Cursos Colegio de Ingenieros');
             $email = get_theme_mod('email_cursos', 'jorgesaud1986@gmail.com');
+            dd($email);
             $message->to($email, 'Cursos')->subject('Interesado en curso! '.$subject);
         });
         $curso = Curso::wherePostName($request->input('slug'))->first();
