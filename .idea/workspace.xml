@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a83fb2e0-3679-4c9c-b653-0afbfcd4e1d7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php" afterPath="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Cursos/extras/topImage.blade.php" afterPath="$PROJECT_DIR$/resources/views/Cursos/extras/topImage.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php" afterPath="$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php" />
     </list>
     <ignored path="CIVSCGconWP.iws" />
@@ -28,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="customizer.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php">
+      <file leaf-file-name="topImage.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/Cursos/extras/topImage.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52840906" vertical-offset="686" max-vertical-offset="3473">
-              <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.03146375" vertical-offset="0" max-vertical-offset="731">
+              <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -46,7 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/Noticia.php" />
         <option value="$PROJECT_DIR$/vendor/jorgelsaud/corcel_edited/src/Corcel/Post.php" />
         <option value="$PROJECT_DIR$/resources/views/Eventos/show.blade.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/functions.php" />
@@ -95,8 +94,9 @@
         <option value="$PROJECT_DIR$/resources/views/Paginas/extras/contactanos.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Cursos/email.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/CursosController.php" />
-        <option value="$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php" />
         <option value="$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php" />
+        <option value="$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Cursos/extras/topImage.blade.php" />
       </list>
     </option>
   </component>
@@ -480,13 +480,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/views/Cursos/all.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="945">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customPosts/CursosPost.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-33.25" vertical-offset="0" max-vertical-offset="1659">
@@ -4392,11 +4385,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php">
+    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.125855" vertical-offset="0" max-vertical-offset="731">
-          <caret line="4" column="64" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="64" />
+        <state vertical-scroll-proportion="0.52840906" vertical-offset="686" max-vertical-offset="3473">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
           <folding>
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
             <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
             <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
             <marker date="1432075071000" expanded="true" signature="-1:-1" placeholder="..." />
@@ -4405,10 +4426,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Padmin/wp-content/themes/LaravelTheme/customizerTheme/customizer.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/Eventos/extras/topImage.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52840906" vertical-offset="686" max-vertical-offset="3473">
-          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.03146375" vertical-offset="0" max-vertical-offset="731">
+          <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+          <folding>
+            <marker date="1432075392000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075392000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075392000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432075392000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Cursos/extras/topImage.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03146375" vertical-offset="0" max-vertical-offset="731">
+          <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
           <folding />
         </state>
       </provider>
