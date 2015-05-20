@@ -75,6 +75,7 @@ class CursosController extends Controller {
         });
         $curso = Curso::wherePostName($request->input('slug'))->first();
         $curso->meta->interesados=3;
+        $curso->save();
 
         return view('Cursos.show', compact('curso'));
     }
