@@ -74,6 +74,7 @@ class CursosController extends Controller {
             $message->to($email, 'Cursos')->subject('Interesado en curso! '.$subject)->cc('cursos@civscg.com.ve');
         });
         $curso = Curso::wherePostName($request->input('slug'))->first();
+        $curso->meta->interesados=3;
 
         return view('Cursos.show', compact('curso'));
     }
