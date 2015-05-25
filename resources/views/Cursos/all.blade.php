@@ -17,7 +17,11 @@
 						{!! $curso->post_title!!}
 					</div>
 					<div class="descripcion">
-						{!! $curso->post_excerpt!!}
+                        @if($curso->post_excerpt!='')
+                            {!! $curso->post_excerpt!!}
+                        @else
+                            {!! $curso->post_content!!}
+                        @endif
 					</div>
 					<div class="mostrarMas">
 						<a href="{!!route('detalleCursos',$curso->post_name)!!}"><img

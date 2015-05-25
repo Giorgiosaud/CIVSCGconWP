@@ -82,7 +82,7 @@ class CursosController extends Controller {
             $curso->meta->interesados=$curso->meta->interesados+1;
             $curso->save();
         }
-        
+
 
         return view('Cursos.show', compact('curso'));
     }
