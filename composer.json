@@ -35,6 +35,9 @@
     "classmap": [
       "database"
     ],
+    "files":[
+      "app/helpers.php"
+    ],
     "psr-4": {
       "App\\": "app/"
 
@@ -43,10 +46,8 @@
   "autoload-dev": {
     "classmap": [
       "tests/TestCase.php"
-    ],
-    "files":[
-      "app/helpers.php"
     ]
+
   },
   "scripts": {
     "post-install-cmd": [
