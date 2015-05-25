@@ -20,7 +20,7 @@
                         @if($curso->post_excerpt!='')
                             {!! $curso->post_excerpt!!}
                         @else
-                            {!! $curso->post_content!!}
+                            {!! recortar_palabras($curso->post_content,40) !!}
                         @endif
 					</div>
 					<div class="mostrarMas">
