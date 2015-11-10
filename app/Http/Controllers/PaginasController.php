@@ -15,9 +15,9 @@ class PaginasController extends Controller {
 
     public function inicio()
     {
+        // return 'hola';
         $pagina = Page::slug('inicio')->first();
         $noticias = Noticia::published()->orderBy('post_date', 'desc')->take(4)->get();
-
         return view('Paginas.inicio', compact('pagina', 'noticias'));
     }
 
