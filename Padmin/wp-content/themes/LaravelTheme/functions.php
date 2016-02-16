@@ -22,3 +22,9 @@ $args = array(
 );117-
 
 add_theme_support( 'custom-header', $args );
+
+if( function_exists('acf_add_options_page') ) {
+	
+	acf_add_options_page();
+	
+}

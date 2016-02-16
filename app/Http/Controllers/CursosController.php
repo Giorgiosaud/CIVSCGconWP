@@ -65,13 +65,17 @@ class CursosController extends Controller {
     {
         Flash::success('Mensaje Enviado Correctamente Pronto nos pondremos en contacto con usted ');
         $subject=$request->input('nombreDeCurso');
-        $email =get_theme_mod('email_cursos','no definido');
-        Mail::send('Cursos.email', $request->all(), function ($message) use ($subject,$email)
+	$emails=[];
+	if( have_rows('emails_cursos', 'option') ):
+		while( have_rows('emails_cursos') ):the_row();
+			$emails[]=get_sub_field('emails_cursos');		
+		endwhile;
+	endif;
+        Mail::send('Cursos.email', $request->all(), function ($message) use ($subject,$emails)
         {
             $message->from('cursos@civscg.com.ve', 'Cursos Colegio de Ingenieros');
 
-//            dd($email);
-            $message->to($email, 'Cursos')->subject('Interesado en curso! '.$subject)->cc('cursos@civscg.com.ve');
+            $message->to($emails, 'Cursos')->subject('Interesado en curso! '.$subject)->cc('cursos@civscg.com.ve');
         });
         $curso = Curso::wherePostName($request->input('slug'))->first();
         if($curso->meta->interesados==''){
