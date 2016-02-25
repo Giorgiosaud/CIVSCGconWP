@@ -22,7 +22,7 @@
 							Profesor: {!! $curso->profesor !!}
 						</div>
 						<div classs="precio">
-                                                        Precio: {!! $curso->precio !!}
+                                                        Precio: {!! $curso->precio !!} Bs.
                                                 </div>
 						<div classs="duracion">
                                                         Duracion: {!! $curso->duracion !!}
