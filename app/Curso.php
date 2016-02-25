@@ -71,11 +71,21 @@ use jorgelsaud\Corcel\Post;
  * @method static \jorgelsaud\Corcel\Post taxonomy($taxonomy)
  */
 class Curso extends Post{
-    //use Presenter;
-    protected $orderedByPostDate=false;
-    protected $postType = 'curso';
-    public function getFechaDeCursoAttribute(){
-        $r=Carbon::createFromFormat('Y-m-d',$this->meta->fecha_evento);
-        return $r;
-    }
+
+	protected $orderedByPostDate=false;
+	protected $postType = 'curso';
+	public function getFechaDeCursoAttribute(){
+		$r=Carbon::createFromFormat('Ymd',$this->meta->fecha_evento);
+		return $r;
+	}
+	public function getProfesorAttribute(){
+		return $this->meta->profesor;
+	}
+	public function getDuracionAttribute(){
+                return $this->meta->duracion;
+        }
+	public function getPrecioAttribute(){
+                return $this->meta->precio;
+        }
+
 }

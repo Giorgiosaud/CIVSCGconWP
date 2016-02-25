@@ -75,7 +75,7 @@ class Evento extends Post {
 
     public function getFechaDeEventoAttribute()
     {
-        $r = Carbon::createFromFormat('Y-m-d', $this->meta->fecha_evento);
+        $r = Carbon::createFromFormat('Ymd', $this->meta->fecha_evento);
 
         return $r;
     }

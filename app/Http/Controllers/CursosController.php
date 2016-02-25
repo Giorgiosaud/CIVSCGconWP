@@ -19,7 +19,7 @@ class CursosController extends Controller {
             $join->on('posts.id', '=', 'postmeta.post_id');
         })
             ->where('meta_key', 'fecha_evento')
-            ->where('meta_value', '>=', Carbon::now())
+            ->where('meta_value', '>=', Carbon::now()->format('Ymd'))
             ->orderBy('meta_value', 'ASC')
             ->paginate(5);
         $taxs = TermTaxonomy::whereTaxonomy('tipo_de_curso')->where('count', '>', '0')->get();

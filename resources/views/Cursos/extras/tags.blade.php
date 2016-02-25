@@ -8,7 +8,7 @@
 				<ul class="nav nav-pills nav-justified pills-civscg">
 					@endif
 					<li role="presentation">
-						<a href="{!!route('cursosTipos',$tax->term->slug)!!}">
+						<a href="{!!route('cursosTipos',$tax->term->slug)!!}#Cursos">
 							{!!$tax->term->name!!}
 							<span class="badge">{!!$tax->count!!}</span>
 						</a>

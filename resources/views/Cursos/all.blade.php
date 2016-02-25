@@ -2,6 +2,7 @@
 @section('contenido')
 	@include('Cursos.extras.topImage')
 	@include('Cursos.extras.tags')
+	<div id="Cursos">
 	@foreach($cursos as $i=>$curso)
 		<div class="container-fluid container-fluid-pegadito cursos">
 			<div class="col-xs-12 col-sm-6 imagenVertical @if($i%2!=0) pull-right @endif">
@@ -17,11 +18,15 @@
 						{!! $curso->post_title!!}
 					</div>
 					<div class="descripcion">
-                        @if($curso->post_excerpt!='')
-                            {!! $curso->post_excerpt!!}
-                        @else
-                            {!! recortar_palabras($curso->TheContent,40) !!}
-                        @endif
+						<div classs="profesor">
+							Profesor: {!! $curso->profesor !!}
+						</div>
+						<div classs="precio">
+                                                        Precio: {!! $curso->precio !!}
+                                                </div>
+						<div classs="duracion">
+                                                        Duracion: {!! $curso->duracion !!}
+                                                </div>
 					</div>
 					<div class="mostrarMas">
 						<a href="{!!route('detalleCursos',$curso->post_name)!!}"><img
@@ -36,6 +41,7 @@
 		</div>
 
 	@endforeach
+	</div>
 	<div class="container-fluid container-fluid-pegadito">
 		<div class="col-xs-12 text-center">
 			{!!$cursos->render()!!}
