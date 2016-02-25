@@ -15,6 +15,21 @@
 				{!! $curso->post_title!!}
 		</div>
 		<div class="col-xs-12 col-sm-8 contenidoCurso">
+			@if($curso->profesor!='')
+                                                        <div classs="profesor">
+                                                                <i class="fa fa-user"></i>Profesor: {!! $curso->profesor !!}
+                                                        </div>
+                                                @endif
+                                                @if($curso->precio!='')
+                                                <div classs="precio">
+                                                        <i class="fa fa-money"></i>Precio: {!! $curso->precio !!} Bs.
+                                                </div>
+                                                @endif
+                                                @if($curso->duracion!='')
+                                                <div classs="duracion">
+                                                        <i class="fa fa-clock-o"></i>Duracion: {!! $curso->duracion !!}
+                                                </div>
+                                                @endif
 			<p>	{!!apply_filters('the_content',$curso->post_content)!!}</p>
 
 

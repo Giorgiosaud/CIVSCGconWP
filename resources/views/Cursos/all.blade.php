@@ -20,17 +20,17 @@
 					<div class="descripcion">
 						@if($curso->profesor!='')
 							<div classs="profesor">
-								Profesor: {!! $curso->profesor !!}
+								<i class="fa fa-user"></i>Profesor: {!! $curso->profesor !!}
 							</div>
 						@endif
 						@if($curso->precio!='')
 						<div classs="precio">
-                                                        Precio: {!! $curso->precio !!} Bs.
+                                                        <i class="fa fa-money"></i>Precio: {!! $curso->precio !!} Bs.
                                                 </div>
 						@endif
 						@if($curso->duracion!='')
 						<div classs="duracion">
-                                                        Duracion: {!! $curso->duracion !!}
+                                                        <i class="fa fa-clock-o"></i>Duracion: {!! $curso->duracion !!}
                                                 </div>
 						@endif
 					</div>
