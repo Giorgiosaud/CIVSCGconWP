@@ -18,15 +18,21 @@
 						{!! $curso->post_title!!}
 					</div>
 					<div class="descripcion">
-						<div classs="profesor">
-							Profesor: {!! $curso->profesor !!}
-						</div>
+						@if($curso->profesor!='')
+							<div classs="profesor">
+								Profesor: {!! $curso->profesor !!}
+							</div>
+						@endif
+						@if($curso->precio!='')
 						<div classs="precio">
                                                         Precio: {!! $curso->precio !!} Bs.
                                                 </div>
+						@endif
+						@if($curso->duracion!='')
 						<div classs="duracion">
                                                         Duracion: {!! $curso->duracion !!}
                                                 </div>
+						@endif
 					</div>
 					<div class="mostrarMas">
 						<a href="{!!route('detalleCursos',$curso->post_name)!!}"><img
