@@ -1,0 +1,167 @@
+
+@media (min-width: 768px) {
+  .navbar-collapse-v {
+    height: auto;
+    border-top: 0;
+    box-shadow: none;
+    max-height: none;
+    padding-left:0;
+    padding-right:0;
+  }
+  .navbar-collapse-v.collapse-v {
+    display: block !important;
+    width: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+  }
+  .navbar-collapse-v.in {
+    overflow-x: visible;
+  }
+
+.navbar-v
+{
+  max-width:200px;
+  margin-top: -101px;
+  margin-right: 0;
+  margin-left: 0;
+} 
+
+.navbar-nav-v,
+.navbar-nav-v > li,
+.navbar-left-v,
+.navbar-right-v,
+.navbar-header-v
+{float:none !important;}
+
+.navbar-right-v .dropdown-menu-v {left:0;right:auto;}
+.navbar-collapse-v .navbar-nav-v.navbar-right-v:last-child {
+    margin-right: 0;
+}
+}
+
+#contenedor {
+  width: auto;
+  height: auto;
+ 
+  position: absolute;
+  top: 50%;
+  left: 50%;
+ 
+  margin-top: -75px;   /* height/2 = 500px / 2 */
+  margin-left: -190px;  /* width/2 = 500px / 2 */
+}
+
+.title {
+  color: green ;
+}
+
+.modfboton {
+
+  padding-top: 2em;
+}
+
+.cuerpo{
+
+
+background-image: url("/images/logo_version_bow.png");
+background-repeat: no-repeat;
+background-position: center; 
+margin-top: -55px;
+height: 200px;
+
+}
+
+.seccion1{
+margin-top:-20px;
+/*display: flex;*/
+justify-content: center;
+align-items: center;
+flex-direction: row;
+text-align: center;
+height: 145px;
+width: auto;
+background-color: #1B1256;
+color: white;
+border-bottom: solid lightblue 10px;
+}
+
+.solv{
+background-image: url("/images/empresas.jpg"); 
+height: 488px;
+width: auto;
+background-position: center;
+}
+
+.solv2{
+background-image: url("/images/original.jpg"); 
+height: 520px;
+/*width: auto;*/
+background-position: center;
+
+
+}
+
+.solv3{
+margin-top: -20px;
+background-image: url("/images/empresa2.jpg"); 
+height: 500px;
+/*width: auto;*/
+background-position: center;
+
+
+}
+
+.seccion1::after{
+
+}
+.navbar-collapse.collapse{
+  font-size: 2rem;
+}
+.navbar-nav > li > a{
+  color:white; 
+  
+}
+.navbar-nav > li > a:hover,.navbar-nav > li > a:active,.navbar-nav > li > a:focus{
+  background-color:   blue;
+}
+.marginform{
+  margin-top: 20px;
+}
+
+.a{
+margin: 1em 0; 
+display: block;
+}
+
+.texto-color{
+  color: white;
+}
+
+/*.text-color{
+  color: ;
+}*/
+
+.tex_col{
+ color: blue;
+ font-size: 15px;
+}
+.texto-color2{
+
+  color: white;
+  font-family: helvetica;
+  font-size: 14px;
+  text-shadow: 1px 1px 0 #2F7235, -1px -1px #2F7235, 1px -1px #2F7235, -1px 1px #2F7235, 0 1px #2F7235, 1px 0 #2F7235, -1px 0 #2F7235, 0 -1px #2F7235;
+}
+
+.texto-color3{
+
+  color: black;
+  font-family: Arial;
+  font-size: 15px;
+  text-shadow: 2px 2px 1px white}
+
+
+
+
+} 
+

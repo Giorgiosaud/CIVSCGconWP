@@ -21,7 +21,7 @@
 				{!! wp_get_attachment_image($pagina->meta->imagen_solvencias,'imagenVertical') !!}
 			</div>
 			<div class="botonBanner botonInscripcion">
-				<a href="{!!route('solvencia',array('slug'=>'inicio'))!!}">{!!$pagina->meta->texto_solvencias!!}</a></div>
+				<a href="{!!route('login',array('slug'=>'inicio'))!!}">{!!$pagina->meta->texto_solvencias!!}</a></div>
 		</div>
 
 		<div class="clearfix"></div>
