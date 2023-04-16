@@ -18,7 +18,7 @@
     "jorgelsaud/carbonlocalizer": "1.0.2",
     "barryvdh/laravel-debugbar": "~2.0",
     "jorgelsaud/corcel_edited": "dev-master",
-    "guzzlehttp/guzzle": "~4.0",
+    "guzzlehttp/guzzle": "~6.5",
     "roumen/sitemap": "~2.5"
   },
   "require-dev": {
